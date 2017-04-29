@@ -2727,6 +2727,9 @@ Payment,Оплата,module,Magento_Checkout
 "We received your order!","Ми отримали ваше замовлення!",module,Magento_Checkout
 "Thank you for your purchase!","Дякуємо за покупку!",module,Magento_Checkout
 "Go to Checkout","Перейти до оформлення замовлення",module,Magento_Checkout
+"View and edit cart","Переглянути та редагувати кошик",module,Magento_Checkout
+"Item in Cart","Товар в кошику",module,Magento_Checkout
+"Items in Cart","Товари в кошику",module,Magento_Checkout
 "Terms and Conditions","Правила та умови використання",module,Magento_CheckoutAgreements
 "Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
 "Save Condition","Save Condition",module,Magento_CheckoutAgreements
@@ -6310,6 +6313,7 @@ Partners,Партнери,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Синхронізувати,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Синхронізація...,module,Magento_MediaStorage
