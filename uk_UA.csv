@@ -385,11 +385,11 @@ Orders,Замовлення,module,Magento_Backend
 Amounts,Суми,module,Magento_Backend
 Bestsellers,"Лідери продажів",module,Magento_Backend
 "Most Viewed Products","Найбільш Просмотрювані Товари",module,Magento_Backend
-"New Customers","Нові Покупці",module,Magento_Backend
+"New Customers","Нові покупці",module,Magento_Backend
 Customers,Покупці,module,Magento_Backend
 Customer,Покупець,module,Magento_Backend
 Guest,Гість,module,Magento_Backend
-Items,Елементи,module,Magento_Backend
+Items,Позиції,module,Magento_Backend
 Total,Загалом,module,Magento_Backend
 "Lifetime Sales","Довічні Продажі",module,Magento_Backend
 "Average Order","Середнє Замовлення",module,Magento_Backend
@@ -408,14 +408,14 @@ Shipping,Доставка,module,Magento_Backend
 "All Store Views","Усі Види Магазинів",module,Magento_Backend
 "What is this?","Що це?",module,Magento_Backend
 "Save Account","Зберегти Обліковий Запис",module,Magento_Backend
-"My Account","Мій Аккаунт",module,Magento_Backend
+"My Account","Мій обліковий запис",module,Magento_Backend
 "Account Information","Інформація про обліковий запис",module,Magento_Backend
 "User Name","Ім'я користувача",module,Magento_Backend
 "First Name",Ім'я,module,Magento_Backend
 "Last Name",Прізвище,module,Magento_Backend
 Email,"Електронна пошта",module,Magento_Backend
 "User Email","Email Користувача",module,Magento_Backend
-"New Password","Новий Пароль",module,Magento_Backend
+"New Password","Новий пароль",module,Magento_Backend
 "Password Confirmation","Підтвердження Паролю",module,Magento_Backend
 "Interface Locale","Локалізація Інтерфейсу",module,Magento_Backend
 "Current User Identity Verification","Перевірка Особи Поточного Користувача",module,Magento_Backend
@@ -1557,7 +1557,7 @@ Products,Товари,module,Magento_Catalog
 "You cleared the comparison list.","Ви очистили список порівняння.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Щось пішло не так під час очищення списку порівняння.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Ви видалили товар %1 зі списку порівняння.",module,Magento_Catalog
-"1 item","1 елемент",module,Magento_Catalog
+"1 item","1 позиція",module,Magento_Catalog
 "%1 items","%1 елементи(ів)",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
@@ -2503,7 +2503,7 @@ AttributeSetText,AttributeSetText,module,Magento_CatalogStaging
 Status,Status,module,Magento_CatalogStaging
 StatusText,StatusText,module,Magento_CatalogStaging
 Type,Type,module,Magento_CatalogStaging
-SKU,SKU,module,Magento_CatalogStaging
+SKU,Артикул,module,Magento_CatalogStaging
 Price,Price,module,Magento_CatalogStaging
 "Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
 "The product will be removed from the update and all scheduled changes will be lost.","The product will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
@@ -2594,7 +2594,7 @@ Checkout,"Оформити замовлення",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","Не вдалося зберегти інформацію про доставку. Будь ласка, перевірте введені дані.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","Спосіб доставки не є вірним для порожнього кошика",module,Magento_Checkout
-item,товар,module,Magento_Checkout
+item,позиція,module,Magento_Checkout
 items,елементи,module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Не можно обчислити вартість порожнього кошику",module,Magento_Checkout
 "Invalid data","Некоректні дані",module,Magento_Checkout
@@ -2614,7 +2614,7 @@ Message,Повідомлення,module,Magento_Checkout
 "Apply Discount","Застосувати знижку",module,Magento_Checkout
 "Cancel Coupon","Скасувати купон",module,Magento_Checkout
 "Shopping Cart Items","Товари в кошику",module,Magento_Checkout
-Item,Елемент,module,Magento_Checkout
+Item,Позиція,module,Magento_Checkout
 Price,Ціна,module,Magento_Checkout
 Qty,Кіл-ть,module,Magento_Checkout
 Subtotal,"Проміжні підсумки",module,Magento_Checkout
@@ -2635,7 +2635,7 @@ Edit,Редагувати,module,Magento_Checkout
 Loading...,Завантаження...,module,Magento_Checkout
 "Order #","№ замовлення",module,Magento_Checkout
 "Proceed to Checkout","Перейти до оформлення замовлення",module,Magento_Checkout
-"Product Name","Назва Продукту",module,Magento_Checkout
+"Product Name","Назва товару",module,Magento_Checkout
 "Incl. Tax","З податками",module,Magento_Checkout
 "Your order number is: %1.","Номер замовлення: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Ваше замовлення #: <span>%1</span>.",module,Magento_Checkout
@@ -2667,7 +2667,7 @@ Login,Увійти,module,Magento_Checkout
 "See Details","Див. докладніше",module,Magento_Checkout
 "Options Details","Параметри деталей",module,Magento_Checkout
 Remove,Вилучити,module,Magento_Checkout
-"Cart Subtotal","Проміжний підсумок",module,Magento_Checkout
+"Cart Subtotal","Проміжний підсумок кошика",module,Magento_Checkout
 "Payment Information","Відомості про оплату",module,Magento_Checkout
 "No Payment method available.","Немає доступних способів оплати.",module,Magento_Checkout
 "You can track your order status by creating an account.","Ви можете відстежувати стан вашого замовлення, для цього необхідно створити обліковий запис.",module,Magento_Checkout
@@ -2686,12 +2686,12 @@ edit,редагувати,module,Magento_Checkout
 Next,Наступний,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
 "Order Summary",Всього,module,Magento_Checkout
-"View and Edit Cart","View and Edit Cart",module,Magento_Checkout
+"View and Edit Cart","Переглянути та редагувати кошик",module,Magento_Checkout
 "View Details",Детальніше,module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Поштовий індекс недійсний.",module,Magento_Checkout
 Example:,Наприклад:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Якщо ви вважаєте, що це є правильним ви можете проігнорувати це повідомлення.",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Ви впевнені, що хотіли б видалити цю позицію з кошика?",module,Magento_Checkout
 "Review & Payments","Огляд & платежі",module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
 Shipping,Доставка,module,Magento_Checkout
@@ -2726,10 +2726,10 @@ Payment,Оплата,module,Magento_Checkout
 "Not yet calculated","Ще не підраховано",module,Magento_Checkout
 "We received your order!","Ми отримали ваше замовлення!",module,Magento_Checkout
 "Thank you for your purchase!","Дякуємо за покупку!",module,Magento_Checkout
-"Go to Checkout","Перейти до оформлення замовлення",module,Magento_Checkout
+"Go to Checkout","Перейти до оформлення",module,Magento_Checkout
 "View and edit cart","Переглянути та редагувати кошик",module,Magento_Checkout
-"Item in Cart","Товар в кошику",module,Magento_Checkout
-"Items in Cart","Товари в кошику",module,Magento_Checkout
+"Item in Cart","Позиція в кошику",module,Magento_Checkout
+"Items in Cart","Позицій(ї) в кошику",module,Magento_Checkout
 "Terms and Conditions","Правила та умови використання",module,Magento_CheckoutAgreements
 "Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
 "Save Condition","Save Condition",module,Magento_CheckoutAgreements
@@ -3375,7 +3375,7 @@ Email,"Електронна пошта",module,Magento_CustomAttributeManagement
 "Sign Out",Вийти,module,Magento_Customer
 "Sign In",Увійти,module,Magento_Customer
 "You subscribe to our newsletter.","You subscribe to our newsletter.",module,Magento_Customer
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter.",module,Magento_Customer
+"You don't subscribe to our newsletter.","Ви не підписувалися на нашу розсилку.",module,Magento_Customer
 "You have not set a default shipping address.","Ви не налаштували адресу доставки за промовчанням.",module,Magento_Customer
 "You have not set a default billing address.","Ви не налаштували адресу виставлення рахунка за промовчанням.",module,Magento_Customer
 "Address Book","Адресна книга",module,Magento_Customer
@@ -3434,7 +3434,7 @@ Confirmed,Confirmed,module,Magento_Customer
 "Confirmation Required","Confirmation Required",module,Magento_Customer
 "Confirmation Not Required","Confirmation Not Required",module,Magento_Customer
 Indeterminate,Indeterminate,module,Magento_Customer
-"The customer does not have default billing address.","The customer does not have default billing address.",module,Magento_Customer
+"The customer does not have default billing address.","Покупець не має адреси виставлення рахунка за промовчанням.",module,Magento_Customer
 Offline,Offline,module,Magento_Customer
 Online,Онлайн,module,Magento_Customer
 Never,Ніколи,module,Magento_Customer
@@ -3495,17 +3495,17 @@ Download,Download,module,Magento_Customer
 "Account Information","Інформація про обліковий запис",module,Magento_Customer
 "You saved the account information.","You saved the account information.",module,Magento_Customer
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Підтвердження пароля не відповідає введеному паролеві.",module,Magento_Customer
 "The password doesn't match this account.","The password doesn't match this account.",module,Magento_Customer
 "Please correct the email address.","Please correct the email address.",module,Magento_Customer
 "We're unable to send the password reset email.","We're unable to send the password reset email.",module,Magento_Customer
 "Please enter your email.","Please enter your email.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password.",module,Magento_Customer
-"My Account","Мій Аккаунт",module,Magento_Customer
+"My Account","Мій обліковий запис",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","An unspecified error occurred. Please contact us for assistance.",module,Magento_Customer
 "A login and a password are required.","A login and a password are required.",module,Magento_Customer
-"New Password and Confirm New Password values didn't match.","New Password and Confirm New Password values didn't match.",module,Magento_Customer
+"New Password and Confirm New Password values didn't match.","Значення нового пароля і підтвердження нового пароля не збігаються.",module,Magento_Customer
 "Please enter a new password.","Please enter a new password.",module,Magento_Customer
 "You updated your password.","You updated your password.",module,Magento_Customer
 "Something went wrong while saving the new password.","Something went wrong while saving the new password.",module,Magento_Customer
@@ -3666,7 +3666,7 @@ Customer,Покупець,module,Magento_Customer
 "Account Created on (%1):","Account Created on (%1):",module,Magento_Customer
 "Account Created in:","Account Created in:",module,Magento_Customer
 "Customer Group:","Customer Group:",module,Magento_Customer
-"Default Billing Address","Default Billing Address",module,Magento_Customer
+"Default Billing Address","Адреса виставлення рахунка за промовчанням",module,Magento_Customer
 "Sales Statistics","Sales Statistics",module,Magento_Customer
 "Web Site",Веб-сайт,module,Magento_Customer
 Store,Магазин,module,Magento_Customer
@@ -3676,25 +3676,25 @@ Store,Магазин,module,Magento_Customer
 "All Store Views","All Store Views",module,Magento_Customer
 Change,Change,module,Magento_Customer
 "Manage Addresses","Керувати адресами",module,Magento_Customer
-"Default Shipping Address","Default Shipping Address",module,Magento_Customer
-"Contact Information","Contact Information",module,Magento_Customer
-"Change Password","Change Password",module,Magento_Customer
-Newsletters,Newsletters,module,Magento_Customer
+"Default Shipping Address","Адреса доставки за промовчанням",module,Magento_Customer
+"Contact Information","Контактна інформація",module,Magento_Customer
+"Change Password","Змінити пароль",module,Magento_Customer
+Newsletters,"Розсилки новин",module,Magento_Customer
 "You subscribe to ""General Subscription"".","You subscribe to ""General Subscription"".",module,Magento_Customer
 or,або,module,Magento_Customer
-"Default Addresses","Default Addresses",module,Magento_Customer
+"Default Addresses","Адреси за промовчанням",module,Magento_Customer
 "Change Billing Address","Change Billing Address",module,Magento_Customer
-"You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
-"Change Shipping Address","Change Shipping Address",module,Magento_Customer
-"You have no default shipping address in your address book.","You have no default shipping address in your address book.",module,Magento_Customer
-"Additional Address Entries","Additional Address Entries",module,Magento_Customer
+"You have no default billing address in your address book.","У Вас немає адреси виставлення рахунка за промовчанням у Вашій адресній книзі.",module,Magento_Customer
+"Change Shipping Address","Змінити адресу доставки",module,Magento_Customer
+"You have no default shipping address in your address book.","У Вас немає адреси доставки за промовчанням у Вашій адресній книзі.",module,Magento_Customer
+"Additional Address Entries","Записи додаткових адрес",module,Magento_Customer
 "Delete Address","Delete Address",module,Magento_Customer
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
 "* Required Fields","* Обов'язкові поля",module,Magento_Customer
-Company,Company,module,Magento_Customer
+Company,Компанія,module,Magento_Customer
 "Phone Number","Phone Number",module,Magento_Customer
-Fax,Fax,module,Magento_Customer
-Address,Address,module,Magento_Customer
+Fax,Факс,module,Magento_Customer
+Address,Адреса,module,Magento_Customer
 "Street Address","Street Address",module,Magento_Customer
 "Street Address %1","Street Address %1",module,Magento_Customer
 "VAT Number","VAT Number",module,Magento_Customer
@@ -3703,41 +3703,41 @@ State/Province,State/Province,module,Magento_Customer
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
 "Zip/Postal Code","Zip/Postal Code",module,Magento_Customer
 Country,Country,module,Magento_Customer
-"It's a default billing address.","It's a default billing address.",module,Magento_Customer
-"Use as my default billing address","Use as my default billing address",module,Magento_Customer
-"It's a default shipping address.","It's a default shipping address.",module,Magento_Customer
-"Use as my default shipping address","Use as my default shipping address",module,Magento_Customer
+"It's a default billing address.","Це адреса виставлення рахунка за промовчанням.",module,Magento_Customer
+"Use as my default billing address","Використовувати як мою адресу виставлення рахунка за промовчанням",module,Magento_Customer
+"It's a default shipping address.","Це адреса доставки за промовчанням.",module,Magento_Customer
+"Use as my default shipping address","Використовувати як мою адресу доставки за промовчанням",module,Magento_Customer
 "Save Address","Save Address",module,Magento_Customer
 "Go back","Go back",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
 Email,"Електронна пошта",module,Magento_Customer
 "Send confirmation link","Send confirmation link",module,Magento_Customer
 "Back to Sign In","Back to Sign In",module,Magento_Customer
-"Change Email","Change Email",module,Magento_Customer
-"Change Email and Password","Change Email and Password",module,Magento_Customer
-"Current Password","Current Password",module,Magento_Customer
-"New Password","Новий Пароль",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
-"No Password","No Password",module,Magento_Customer
-"Confirm New Password","Confirm New Password",module,Magento_Customer
+"Change Email","Змінити електронну пошту",module,Magento_Customer
+"Change Email and Password","Змінити електронну пошту та пароль",module,Magento_Customer
+"Current Password","Поточний пароль",module,Magento_Customer
+"New Password","Новий пароль",module,Magento_Customer
+"Password Strength","Надійність пароля",module,Magento_Customer
+"No Password","Нема пароля",module,Magento_Customer
+"Confirm New Password","Підтвердьте новий пароль",module,Magento_Customer
 Save,Зберегти,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
 "Reset My Password","Reset My Password",module,Magento_Customer
-"Registered Customers","Registered Customers",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
+"Registered Customers","Зареєстровані покупці",module,Magento_Customer
+"If you have an account, sign in with your email address.","Якщо у вас є обліковий запис, увійдіть за допомогою адреси електронної пошти.",module,Magento_Customer
 Password,Password,module,Magento_Customer
 "Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
-"Subscription option","Subscription option",module,Magento_Customer
-"General Subscription","General Subscription",module,Magento_Customer
-"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
+"Subscription option","Варіанти підписки",module,Magento_Customer
+"General Subscription","Загальна підписка",module,Magento_Customer
+"Sign Up for Newsletter","Підписатися на розсилку новин",module,Magento_Customer
 "Address Information","Address Information",module,Magento_Customer
-"Sign-in Information","Sign-in Information",module,Magento_Customer
-"Confirm Password","Confirm Password",module,Magento_Customer
+"Sign-in Information","Інформація для входу",module,Magento_Customer
+"Confirm Password","Підтвердьте пароль",module,Magento_Customer
 "Create an Account","Створити обліковий запис",module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
-"New Customers","Нові Покупці",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+"New Customers","Нові покупці",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Створення облікового запису має багато переваг: оформлюйте швидше, зберігайте кілька адрес, відслідковуйте замовлення та багато іншого.",module,Magento_Customer
 Gender,Стать,module,Magento_Customer
 Name,Ім'я,module,Magento_Customer
 "Tax/VAT number","Tax/VAT number",module,Magento_Customer
@@ -3759,14 +3759,14 @@ Password:,Пароль:,module,Magento_Customer
 "Confirm Your Account","Confirm Your Account",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Thank you for confirming your %store_name account.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:",module,Magento_Customer
-"Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
+"Your %store_name email has been changed","Вашу %store_name електронну пошту було змінено",module,Magento_Customer
 "Hello,","Hello,",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Ми отримали прохання про зміну наступної інформації, пов'язаної з Вашим обліковим записом на %store_name: електронна пошта.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","Thanks,<br>%store_name",module,Magento_Customer
-"Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
+"Your %store_name email and password has been changed","Ваші %store_name електронну пошту та пароль було змінено",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Ми отримали прохання про зміну наступної інформації, пов'язаної з Вашим обліковим записом на %store_name: пароль.",module,Magento_Customer
 "Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
 "There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
 "If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
@@ -3782,10 +3782,10 @@ Password:,Пароль:,module,Magento_Customer
 "Email Address","Email Address",module,Magento_Customer
 "Are you sure you want to do this?","Ви справді бажаєте це зробити?",module,Magento_Customer
 "Are you sure you want to delete this address?","Are you sure you want to delete this address?",module,Magento_Customer
-Weak,Weak,module,Magento_Customer
-Medium,Medium,module,Magento_Customer
-Strong,Strong,module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
+Weak,Слабкий,module,Magento_Customer
+Medium,Середній,module,Magento_Customer
+Strong,Сильний,module,Magento_Customer
+"Very Strong","Дуже сильний",module,Magento_Customer
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
 "All Customers","All Customers",module,Magento_Customer
 "Now Online","Now Online",module,Magento_Customer
@@ -3887,10 +3887,10 @@ Type,Тип,module,Magento_Customer
 "Send Welcome Email From","Send Welcome Email From",module,Magento_Customer
 Addresses,Addresses,module,Magento_Customer
 "Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
-"Account Dashboard","Account Dashboard",module,Magento_Customer
+"Account Dashboard","Приладова дошка облікового запису",module,Magento_Customer
 "Edit Account Information","Edit Account Information",module,Magento_Customer
 "Password forgotten","Password forgotten",module,Magento_Customer
-"My Dashboard","My Dashboard",module,Magento_Customer
+"My Dashboard","Моя приладова дошка",module,Magento_Customer
 "You are signed out","You are signed out",module,Magento_Customer
 "Store Credit","Store Credit",module,Magento_CustomerBalance
 "Delete Orphan Balances","Delete Orphan Balances",module,Magento_CustomerBalance
@@ -4058,11 +4058,11 @@ Customer,Покупець,module,Magento_CustomerCustomAttributes
 "Choose Website:","Choose Website:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Обов'язкові поля",module,Magento_CustomerCustomAttributes
-"Contact Information","Contact Information",module,Magento_CustomerCustomAttributes
-Company,Company,module,Magento_CustomerCustomAttributes
+"Contact Information","Контактна інформація",module,Magento_CustomerCustomAttributes
+Company,Компанія,module,Magento_CustomerCustomAttributes
 "Phone Number","Phone Number",module,Magento_CustomerCustomAttributes
-Fax,Fax,module,Magento_CustomerCustomAttributes
-Address,Address,module,Magento_CustomerCustomAttributes
+Fax,Факс,module,Magento_CustomerCustomAttributes
+Address,Адреса,module,Magento_CustomerCustomAttributes
 "Street Address","Street Address",module,Magento_CustomerCustomAttributes
 "Street Address %1","Street Address %1",module,Magento_CustomerCustomAttributes
 "VAT Number","VAT Number",module,Magento_CustomerCustomAttributes
@@ -4071,28 +4071,28 @@ State/Province,State/Province,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_CustomerCustomAttributes
 "Zip/Postal Code","Zip/Postal Code",module,Magento_CustomerCustomAttributes
 Country,Country,module,Magento_CustomerCustomAttributes
-"This is your default billing address.","This is your default billing address.",module,Magento_CustomerCustomAttributes
-"Use as my default billing address","Use as my default billing address",module,Magento_CustomerCustomAttributes
-"This is your default shipping address.","This is your default shipping address.",module,Magento_CustomerCustomAttributes
-"Use as my default shipping address","Use as my default shipping address",module,Magento_CustomerCustomAttributes
+"This is your default billing address.","Це Ваша адреса виставлення рахунка за промовчанням.",module,Magento_CustomerCustomAttributes
+"Use as my default billing address","Використовувати як мою адресу виставлення рахунка за промовчанням",module,Magento_CustomerCustomAttributes
+"This is your default shipping address.","Це Ваша адреса доставки за промовчанням.",module,Magento_CustomerCustomAttributes
+"Use as my default shipping address","Використовувати як мою адресу доставки за промовчанням",module,Magento_CustomerCustomAttributes
 "Save Address","Save Address",module,Magento_CustomerCustomAttributes
 "Go back","Go back",module,Magento_CustomerCustomAttributes
 "Account Information","Інформація про обліковий запис",module,Magento_CustomerCustomAttributes
-"Change Email","Change Email",module,Magento_CustomerCustomAttributes
-"Change Password","Change Password",module,Magento_CustomerCustomAttributes
-"Change Email and Password","Change Email and Password",module,Magento_CustomerCustomAttributes
+"Change Email","Змінити електронну пошту",module,Magento_CustomerCustomAttributes
+"Change Password","Змінити пароль",module,Magento_CustomerCustomAttributes
+"Change Email and Password","Змінити електронну пошту та пароль",module,Magento_CustomerCustomAttributes
 Email,"Електронна пошта",module,Magento_CustomerCustomAttributes
-"Current Password","Current Password",module,Magento_CustomerCustomAttributes
-"New Password","Новий Пароль",module,Magento_CustomerCustomAttributes
-"Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
-"No Password","No Password",module,Magento_CustomerCustomAttributes
-"Confirm New Password","Confirm New Password",module,Magento_CustomerCustomAttributes
+"Current Password","Поточний пароль",module,Magento_CustomerCustomAttributes
+"New Password","Новий пароль",module,Magento_CustomerCustomAttributes
+"Password Strength","Надійність пароля",module,Magento_CustomerCustomAttributes
+"No Password","Нема пароля",module,Magento_CustomerCustomAttributes
+"Confirm New Password","Підтвердьте новий пароль",module,Magento_CustomerCustomAttributes
 "Personal Information","Персональна інформація",module,Magento_CustomerCustomAttributes
-"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_CustomerCustomAttributes
+"Sign Up for Newsletter","Підписатися на розсилку новин",module,Magento_CustomerCustomAttributes
 "Address Information","Address Information",module,Magento_CustomerCustomAttributes
-"Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
+"Sign-in Information","Інформація для входу",module,Magento_CustomerCustomAttributes
 Password,Password,module,Magento_CustomerCustomAttributes
-"Confirm Password","Confirm Password",module,Magento_CustomerCustomAttributes
+"Confirm Password","Підтвердьте пароль",module,Magento_CustomerCustomAttributes
 "Create an Account","Створити обліковий запис",module,Magento_CustomerCustomAttributes
 Back,Назад,module,Magento_CustomerCustomAttributes
 "Customer Address","Customer Address",module,Magento_CustomerCustomAttributes
@@ -4139,7 +4139,7 @@ Active,Active,module,Magento_CustomerSegment
 Inactive,Inactive,module,Magento_CustomerSegment
 "Apply To","Apply To",module,Magento_CustomerSegment
 "Visitors and Registered Customers","Visitors and Registered Customers",module,Magento_CustomerSegment
-"Registered Customers","Registered Customers",module,Magento_CustomerSegment
+"Registered Customers","Зареєстровані покупці",module,Magento_CustomerSegment
 Visitors,Visitors,module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.","Please save this information to specify segmentation conditions.",module,Magento_CustomerSegment
 "Matched Customers (%1)","Matched Customers (%1)",module,Magento_CustomerSegment
@@ -4493,7 +4493,7 @@ Service,Service,module,Magento_Directory
 "All Files","Всі файли",module,Magento_Downloadable
 Unlimited,Unlimited,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","Мої завантажувані товари",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -4569,7 +4569,7 @@ U,U,module,Magento_Downloadable
 Availability,Наявність,module,Magento_Downloadable
 "In stock",Залишок,module,Magento_Downloadable
 "Out of stock","Немає у наявності",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Перейти до <a href=""%1""> Мої завантажувані товари</a>",module,Magento_Downloadable
 "Downloadable Products","Downloadable Products",module,Magento_Downloadable
 "Order #","Order #",module,Magento_Downloadable
 Date,Date,module,Magento_Downloadable
@@ -4584,7 +4584,7 @@ download,download,module,Magento_Downloadable
 From:,From:,module,Magento_Downloadable
 To:,To:,module,Magento_Downloadable
 Message:,Message:,module,Magento_Downloadable
-"Product Name","Назва Продукту",module,Magento_Downloadable
+"Product Name","Назва товару",module,Magento_Downloadable
 Qty,Кіл-ть,module,Magento_Downloadable
 Subtotal,"Проміжні підсумки",module,Magento_Downloadable
 "Discount Amount","Discount Amount",module,Magento_Downloadable
@@ -5313,7 +5313,7 @@ Delete,Видалити,module,Magento_GiftRegistry
 "Delete Attribute","Delete Attribute",module,Magento_GiftRegistry
 "Use Default Value","Використовувати значення за замовчуванням",module,Magento_GiftRegistry
 Short,Short,module,Magento_GiftRegistry
-Medium,Medium,module,Magento_GiftRegistry
+Medium,Середній,module,Magento_GiftRegistry
 Long,Long,module,Magento_GiftRegistry
 Full,Full,module,Magento_GiftRegistry
 "Add New Option","Add New Option",module,Magento_GiftRegistry
@@ -5449,8 +5449,8 @@ Owner,Власник,module,Magento_GiftRegistry
 "Date Format","Date Format",module,Magento_GiftRegistry
 "Is Default","Is Default",module,Magento_GiftRegistry
 "Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address.",module,Magento_GiftRegistry
-Company,Company,module,Magento_GiftRegistry
-Address,Address,module,Magento_GiftRegistry
+Company,Компанія,module,Magento_GiftRegistry
+Address,Адреса,module,Magento_GiftRegistry
 "Street Address","Street Address",module,Magento_GiftRegistry
 "Street Address %1","Street Address %1",module,Magento_GiftRegistry
 City,Місто,module,Magento_GiftRegistry
@@ -5458,7 +5458,7 @@ City,Місто,module,Magento_GiftRegistry
 "Zip/Postal Code","Zip/Postal Code",module,Magento_GiftRegistry
 Country,Country,module,Magento_GiftRegistry
 "Phone Number","Phone Number",module,Magento_GiftRegistry
-Fax,Fax,module,Magento_GiftRegistry
+Fax,Факс,module,Magento_GiftRegistry
 "Add All To Gift Registry","Add All To Gift Registry",module,Magento_GiftRegistry
 "Ship to registrant's address","Ship to registrant's address",module,Magento_GiftRegistry
 "Use the gift registry shipping address","Use the gift registry shipping address",module,Magento_GiftRegistry
@@ -5494,7 +5494,7 @@ Type:,Тип:,module,Magento_GiftRegistry
 "Privacy Settings","Privacy Settings",module,Magento_GiftRegistry
 Status,Статус,module,Magento_GiftRegistry
 "Gift Registry Items Updated","Gift Registry Items Updated",module,Magento_GiftRegistry
-"Product Name","Назва Продукту",module,Magento_GiftRegistry
+"Product Name","Назва товару",module,Magento_GiftRegistry
 "Requested Quantity","Requested Quantity",module,Magento_GiftRegistry
 "Fulfilled Quantity","Fulfilled Quantity",module,Magento_GiftRegistry
 "Total Fulfilled Quantity","Total Fulfilled Quantity",module,Magento_GiftRegistry
@@ -5708,7 +5708,7 @@ Actions,Actions,module,Magento_GroupedProduct
 "Associated Products","Associated Products",module,Magento_GroupedProduct
 Availability:,Availability:,module,Magento_GroupedProduct
 "Out of stock","Немає у наявності",module,Magento_GroupedProduct
-"Product Name","Назва Продукту",module,Magento_GroupedProduct
+"Product Name","Назва товару",module,Magento_GroupedProduct
 Qty,Кіл-ть,module,Magento_GroupedProduct
 "No options of this product are available.","No options of this product are available.",module,Magento_GroupedProduct
 "There are no grouped products.","There are no grouped products.",module,Magento_GroupedProduct
@@ -5729,7 +5729,7 @@ ID,ID,module,Magento_GroupedProductStaging
 Thumbnail,Мініатюра,module,Magento_GroupedProductStaging
 Name,Name,module,Magento_GroupedProductStaging
 Type,Тип,module,Magento_GroupedProductStaging
-SKU,SKU,module,Magento_GroupedProductStaging
+SKU,Артикул,module,Magento_GroupedProductStaging
 Quantity,Quantity,module,Magento_GroupedProductStaging
 Price,Price,module,Magento_GroupedProductStaging
 "Attribute Set","Attribute Set",module,Magento_GroupedProductStaging
@@ -6148,7 +6148,7 @@ No,Ні,module,Magento_LayeredNavigation
 Position,Позиція,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Position in Layered Navigation",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Position of attribute in layered navigation block.",module,Magento_LayeredNavigation
-item,елемент,module,Magento_LayeredNavigation
+item,позиція,module,Magento_LayeredNavigation
 items,елементи,module,Magento_LayeredNavigation
 "Now Shopping by","Тепер покупки за",module,Magento_LayeredNavigation
 Previous,Попередній,module,Magento_LayeredNavigation
@@ -6389,10 +6389,10 @@ Street,Street,module,Magento_MultipleLocationInventory
 ZIP,ZIP,module,Magento_MultipleLocationInventory
 Status,Статус,module,Magento_MultipleLocationInventory
 Phone,Телефон,module,Magento_MultipleLocationInventory
-Fax,Fax,module,Magento_MultipleLocationInventory
-Wishlist,"Список Бажань",module,Magento_MultipleWishlist
+Fax,Факс,module,Magento_MultipleLocationInventory
+Wishlist,"Список бажань",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Customer's Wish List Report",module,Magento_MultipleWishlist
-"My Wish Lists","Мої Списки Бажань",module,Magento_MultipleWishlist
+"My Wish Lists","Мої списки бажань",module,Magento_MultipleWishlist
 "1 item in wish list","1 елемент в списку бажань",module,Magento_MultipleWishlist
 "%1 items in wish list","%1 елемент(ів) в список побажань",module,Magento_MultipleWishlist
 "Wish List Search","Wish List Search",module,Magento_MultipleWishlist
@@ -6520,7 +6520,7 @@ Comment,Коментар,module,Magento_MultipleWishlist
 "Product Info","Product Info",module,Magento_MultipleWishlist
 "Unit Price","Unit Price",module,Magento_MultipleWishlist
 "Add to Wish List","Додати до Списку Бажань",module,Magento_MultipleWishlist
-"Change Billing Address","Змінити платіжну адресу",module,Magento_Multishipping
+"Change Billing Address","Змінити адресу виставлення рахунка",module,Magento_Multishipping
 "Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
 "Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
@@ -6576,15 +6576,15 @@ Change,Change,module,Magento_Multishipping
 "Other items in your order","Other items in your order",module,Magento_Multishipping
 "Edit Items","Edit Items",module,Magento_Multishipping
 "Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
-"Product Name","Назва Продукту",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
+"Product Name","Назва товару",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Оформити з багатьма адресами",module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
 "Shipping To","Shipping To",module,Magento_Multishipping
 "Shipping Method","Спосіб доставки",module,Magento_Multishipping
 "Incl. Tax","З податками",module,Magento_Multishipping
 "Excl. Tax","Без податків",module,Magento_Multishipping
 "Order Review","Order Review",module,Magento_Multishipping
-Item,Елемент,module,Magento_Multishipping
+Item,Позиція,module,Magento_Multishipping
 Edit,Редагувати,module,Magento_Multishipping
 Price,Ціна,module,Magento_Multishipping
 Subtotal,"Проміжні підсумки",module,Magento_Multishipping
@@ -6741,7 +6741,7 @@ Paused,Paused,module,Magento_Newsletter
 "Please enter a new template name.","Please enter a new template name.",module,Magento_Newsletter
 Copy,Копіювати,module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
-"Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
+"Sign Up for Our Newsletter:","Підпишіться на нашу розсилку новин:",module,Magento_Newsletter
 "Enter your email address","Enter your email address",module,Magento_Newsletter
 Subscribe,Підписатися,module,Magento_Newsletter
 "Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
@@ -6753,7 +6753,7 @@ Subscribe,Підписатися,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
 "Newsletter Template","Newsletter Template",module,Magento_Newsletter
 "Newsletter Section","Newsletter Section",module,Magento_Newsletter
-"Subscription Options","Subscription Options",module,Magento_Newsletter
+"Subscription Options","Варіанти підписки",module,Magento_Newsletter
 "Allow Guest Subscription","Allow Guest Subscription",module,Magento_Newsletter
 "Need to Confirm","Need to Confirm",module,Magento_Newsletter
 "Confirmation Email Sender","Confirmation Email Sender",module,Magento_Newsletter
@@ -6791,7 +6791,7 @@ Unconfirmed,Unconfirmed,module,Magento_Newsletter
 "Web Site",Веб-сайт,module,Magento_Newsletter
 Store,Магазин,module,Magento_Newsletter
 "Store View","Store View",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
+"Newsletter Subscriptions","Підписки на розсилку новин",module,Magento_Newsletter
 "Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
 "Send Check to:","Send Check to:",module,Magento_OfflinePayments
 "Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
@@ -6952,7 +6952,7 @@ No,Ні,module,Magento_Payment
 "Payment Methods Section","Payment Methods Section",module,Magento_Payment
 "Payment Services","Payment Services",module,Magento_Payment
 "Payment Methods","Payment Methods",module,Magento_Payment
-"Billing Agreements","Billing Agreements",module,Magento_Paypal
+"Billing Agreements","Білінгові угоди",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
 Email,"Електронна пошта",module,Magento_Paypal
 "First Name",Ім'я,module,Magento_Paypal
@@ -7325,7 +7325,7 @@ Date,Date,module,Magento_Paypal
 "Ship To","Ship To",module,Magento_Paypal
 "Order Status","Статус замовлення",module,Magento_Paypal
 "View Order","View Order",module,Magento_Paypal
-"Back to Billing Agreements","Back to Billing Agreements",module,Magento_Paypal
+"Back to Billing Agreements","Повернутися до білінгових угод",module,Magento_Paypal
 "Payment Method","Спосіб оплати",module,Magento_Paypal
 View,View,module,Magento_Paypal
 "There are no billing agreements yet.","There are no billing agreements yet.",module,Magento_Paypal
@@ -7347,7 +7347,7 @@ Edit,Редагувати,module,Magento_Paypal
 "Edit Shopping Cart","Редагувати Кошик",module,Magento_Paypal
 "Place Order","Place Order",module,Magento_Paypal
 "Submitting order information...","Submitting order information...",module,Magento_Paypal
-Item,Елемент,module,Magento_Paypal
+Item,Позиція,module,Magento_Paypal
 Price,Ціна,module,Magento_Paypal
 Qty,Кіл-ть,module,Magento_Paypal
 Subtotal,"Проміжні підсумки",module,Magento_Paypal
@@ -8008,7 +8008,7 @@ Customers,Покупці,module,Magento_Reports
 ID,ID,module,Magento_Reports
 "First Name",Ім'я,module,Magento_Reports
 "Last Name",Прізвище,module,Magento_Reports
-"Items in Cart","Items in Cart",module,Magento_Reports
+"Items in Cart","Позицій(ї) в кошику",module,Magento_Reports
 "Products in carts","Products in carts",module,Magento_Reports
 Carts,Carts,module,Magento_Reports
 Name,Ім'я,module,Magento_Reports
@@ -8031,7 +8031,7 @@ Reports,Звіти,module,Magento_Reports
 "Product Views Report","Product Views Report",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
 Review,Review,module,Magento_Reports
-Reviews,Reviews,module,Magento_Reports
+Reviews,Відгуки,module,Magento_Reports
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
@@ -8176,7 +8176,7 @@ Customer,Покупець,module,Magento_Review
 "Pending Reviews","Pending Reviews",module,Magento_Review
 "All Reviews of Customer `%1`","All Reviews of Customer `%1`",module,Magento_Review
 "All Reviews of Product `%1`","All Reviews of Product `%1`",module,Magento_Review
-"All Reviews","All Reviews",module,Magento_Review
+"All Reviews","Усі відгуки",module,Magento_Review
 Name,Ім'я,module,Magento_Review
 "Product Store Name","Product Store Name",module,Magento_Review
 Price,Ціна,module,Magento_Review
@@ -8204,7 +8204,7 @@ Websites,Websites,module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
 "Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
 "Reviews %1","Reviews %1",module,Magento_Review
-Reviews,Reviews,module,Magento_Review
+Reviews,Відгуки,module,Magento_Review
 "The review has been deleted.","The review has been deleted.",module,Magento_Review
 "Something went wrong  deleting this review.","Something went wrong  deleting this review.",module,Magento_Review
 "Customer Reviews","Customer Reviews",module,Magento_Review
@@ -8221,7 +8221,7 @@ Reviews,Reviews,module,Magento_Review
 "You deleted the rating.","You deleted the rating.",module,Magento_Review
 Ratings,Ratings,module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
+"My Product Reviews","Мої відгуки про товар",module,Magento_Review
 "Cannot initialize product","Cannot initialize product",module,Magento_Review
 "You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
@@ -8236,7 +8236,7 @@ Pending,Pending,module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
 "Assigned Options","Assigned Options",module,Magento_Review
 "Option Title:","Option Title:",module,Magento_Review
-"Product Name","Назва Продукту",module,Magento_Review
+"Product Name","Назва товару",module,Magento_Review
 Rating,Рейтинг,module,Magento_Review
 Actions,Дії,module,Magento_Review
 "See Details","See Details",module,Magento_Review
@@ -8249,7 +8249,7 @@ Back,Назад,module,Magento_Review
 "Submitted on %1","Submitted on %1",module,Magento_Review
 "Back to My Reviews","Back to My Reviews",module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
+"Be the first to review this product","Будьте першим, хто відгукнеться про цей товар",module,Magento_Review
 "Write Your Own Review","Write Your Own Review",module,Magento_Review
 "* Required Fields","* Обов'язкові поля",module,Magento_Review
 "You're reviewing:","You're reviewing:",module,Magento_Review
@@ -8281,7 +8281,7 @@ Review,Review,module,Magento_ReviewStaging
 Visibility,Visibility,module,Magento_ReviewStaging
 Type,Type,module,Magento_ReviewStaging
 Product,Product,module,Magento_ReviewStaging
-SKU,SKU,module,Magento_ReviewStaging
+SKU,Артикул,module,Magento_ReviewStaging
 "Reward Points","Reward Points",module,Magento_Reward
 "Reward Points History","Reward Points History",module,Magento_Reward
 "Expired reward","Expired reward",module,Magento_Reward
@@ -8337,7 +8337,7 @@ Customers,Покупці,module,Magento_Reward
 "Points voided at order #%1 refund.","Points voided at order #%1 refund.",module,Magento_Reward
 "The invitation to %1 converted into a customer.","The invitation to %1 converted into a customer.",module,Magento_Reward
 "The invitation to %1 converted into an order.","The invitation to %1 converted into an order.",module,Magento_Reward
-"Signed up for newsletter with email %1","Signed up for newsletter with email %1",module,Magento_Reward
+"Signed up for newsletter with email %1","Підписано на розсилку новин з електронною поштою %1",module,Magento_Reward
 "Redeemed for order #%1","Redeemed for order #%1",module,Magento_Reward
 "Earned points for order #%1","Earned points for order #%1",module,Magento_Reward
 "Reverted from incomplete order #%1","Reverted from incomplete order #%1",module,Magento_Reward
@@ -8482,7 +8482,7 @@ Add,Add,module,Magento_Rma
 "Custom Value","Custom Value",module,Magento_Rma
 "Print Shipping Label","Print Shipping Label",module,Magento_Rma
 "Show Packages","Show Packages",module,Magento_Rma
-Items,Елементи,module,Magento_Rma
+Items,Позиції,module,Magento_Rma
 "Return Items","Return Items",module,Magento_Rma
 Product,Продукт,module,Magento_Rma
 SKU,SKU,module,Magento_Rma
@@ -8536,7 +8536,7 @@ Yes,Так,module,Magento_Rma
 "Submit Returns","Submit Returns",module,Magento_Rma
 "Add Products","Додати Продукти",module,Magento_Rma
 "Add Selected Product(s) to returns","Add Selected Product(s) to returns",module,Magento_Rma
-"Product Name","Назва Продукту",module,Magento_Rma
+"Product Name","Назва товару",module,Magento_Rma
 "Remaining Qty","Remaining Qty",module,Magento_Rma
 "Requested Qty","Requested Qty",module,Magento_Rma
 "Reason to Return","Reason to Return",module,Magento_Rma
@@ -8707,7 +8707,7 @@ Number,Number,module,Magento_Rma
 "RMA Items Requested for","RMA Items Requested for",module,Magento_Rma
 "Please Select Products to Add","Please Select Products to Add",module,Magento_Rma
 Remove,Вилучити,module,Magento_Rma
-Item,Елемент,module,Magento_Rma
+Item,Позиція,module,Magento_Rma
 "Return items","Return items",module,Magento_Rma
 Sub-items,Sub-items,module,Magento_Rma
 "Quantity To Return","Quantity To Return",module,Magento_Rma
@@ -9023,10 +9023,10 @@ Key,Key,module,Magento_Sales
 Value,Value,module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
 "Order # %1","Order # %1",module,Magento_Sales
-"Back to My Orders","Back to My Orders",module,Magento_Sales
+"Back to My Orders","Повернутися до моїх замовлень",module,Magento_Sales
 "View Another Order","View Another Order",module,Magento_Sales
 "About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
+"My Orders","Мої замовлення",module,Magento_Sales
 "Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
 "About Your Invoice","About Your Invoice",module,Magento_Sales
 "Print Order # %1","Print Order # %1",module,Magento_Sales
@@ -9277,7 +9277,7 @@ title,назва,module,Magento_Sales
 "Could not save a Creditmemo, see error log for details","Could not save a Creditmemo, see error log for details",module,Magento_Sales
 "We cannot determine the field name.","We cannot determine the field name.",module,Magento_Sales
 City,Місто,module,Magento_Sales
-Company,Company,module,Magento_Sales
+Company,Компанія,module,Magento_Sales
 Country,Country,module,Magento_Sales
 Email,"Електронна пошта",module,Magento_Sales
 "First Name",Ім'я,module,Magento_Sales
@@ -9369,7 +9369,7 @@ Subtotal:,"Проміжний підсумок:",module,Magento_Sales
 "You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
 Refresh,Оновити,module,Magento_Sales
-Item,Елемент,module,Magento_Sales
+Item,Позиція,module,Magento_Sales
 "Add To Order","Add To Order",module,Magento_Sales
 "Configure and Add to Order","Configure and Add to Order",module,Magento_Sales
 "No items","No items",module,Magento_Sales
@@ -9450,7 +9450,7 @@ Comment,Коментар,module,Magento_Sales
 "Created At","Created At",module,Magento_Sales
 "Child Transactions","Child Transactions",module,Magento_Sales
 "Transaction Details","Transaction Details",module,Magento_Sales
-Items,Елементи,module,Magento_Sales
+Items,Позиції,module,Magento_Sales
 "Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
 "Shipped By","Shipped By",module,Magento_Sales
 "Tracking Number","Tracking Number",module,Magento_Sales
@@ -9462,7 +9462,7 @@ Continue,Continue,module,Magento_Sales
 "Print All Refunds","Print All Refunds",module,Magento_Sales
 "Refund #","Refund #",module,Magento_Sales
 "Print Refund","Print Refund",module,Magento_Sales
-"Product Name","Назва Продукту",module,Magento_Sales
+"Product Name","Назва товару",module,Magento_Sales
 "Order #","Order #",module,Magento_Sales
 Date,Date,module,Magento_Sales
 "Ship To","Ship To",module,Magento_Sales
@@ -9534,7 +9534,7 @@ General,Загальні,module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",module,Magento_Sales
 "Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
 "Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)",module,Magento_Sales
-Address,Address,module,Magento_Sales
+Address,Адреса,module,Magento_Sales
 "Minimum Order Amount","Minimum Order Amount",module,Magento_Sales
 Enable,Enable,module,Magento_Sales
 "Minimum Amount","Minimum Amount",module,Magento_Sales
@@ -10249,7 +10249,7 @@ Print,Друк,module,Magento_Shipping
 "Show Packages","Show Packages",module,Magento_Shipping
 "About Your Shipment","About Your Shipment",module,Magento_Shipping
 "Order # %1","Order # %1",module,Magento_Shipping
-"Back to My Orders","Back to My Orders",module,Magento_Shipping
+"Back to My Orders","Повернутися до моїх замовлень",module,Magento_Shipping
 "View Another Order","View Another Order",module,Magento_Shipping
 "Please enter a comment.","Please enter a comment.",module,Magento_Shipping
 "Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
@@ -10336,7 +10336,7 @@ Ship,Ship,module,Magento_Shipping
 "Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
 "Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
 "Select All","Вибрати все",module,Magento_Shipping
-"Product Name","Назва Продукту",module,Magento_Shipping
+"Product Name","Назва товару",module,Magento_Shipping
 Delete,Видалити,module,Magento_Shipping
 "Create Packages","Create Packages",module,Magento_Shipping
 Cancel,Скасувати,module,Magento_Shipping
@@ -11209,7 +11209,7 @@ Back,Повернутися,module,Magento_Theme
 "Save and Continue","Зберегти та продовжити",module,Magento_Theme
 "Save Configuration","Зберегти конфігурацію",module,Magento_Theme
 %1,%1,module,Magento_Theme
-Default,Default,module,Magento_Theme
+Default,"За промовчанням",module,Magento_Theme
 Themes,Themes,module,Magento_Theme
 "Save and Continue Edit","Зберегти та Продовжити Редагування",module,Magento_Theme
 "Are you sure you want to delete this theme?","Are you sure you want to delete this theme?",module,Magento_Theme
@@ -11731,8 +11731,8 @@ Users,Користувачі,module,Magento_User
 "Account Information","Інформація про обліковий запис",module,Magento_User
 "User Email","Email Користувача",module,Magento_User
 Password,Password,module,Magento_User
-"New Password","Новий Пароль",module,Magento_User
-"Password Confirmation","Password Confirmation",module,Magento_User
+"New Password","Новий пароль",module,Magento_User
+"Password Confirmation","Підтвердження пароля",module,Magento_User
 "Interface Locale","Interface Locale",module,Magento_User
 "This account is","This account is",module,Magento_User
 "Account Status","Account Status",module,Magento_User
@@ -11788,7 +11788,7 @@ username,username,module,Magento_User
 "Password is required field.","Password is required field.",module,Magento_User
 "Your password must be at least %1 characters.","Your password must be at least %1 characters.",module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Your password must include both numeric and alphabetic characters.",module,Magento_User
-"Your password confirmation must match your password.","Your password confirmation must match your password.",module,Magento_User
+"Your password confirmation must match your password.","Ваше підтвердження пароля повинне відповідати Вашому паролеві.",module,Magento_User
 "It's time to change your password.","It's time to change your password.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
@@ -11799,7 +11799,7 @@ username,username,module,Magento_User
 "Back to Sign in","Back to Sign in",module,Magento_User
 "Forgot your password?","Forgot your password?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
-"Confirm New Password","Confirm New Password",module,Magento_User
+"Confirm New Password","Підтвердьте новий пароль",module,Magento_User
 "Reset Password","Reset Password",module,Magento_User
 "Roles Resources","Roles Resources",module,Magento_User
 "Resource Access","Resource Access",module,Magento_User
@@ -11808,7 +11808,7 @@ All,Всі,module,Magento_User
 Resources,Resources,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
-"Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
+"Password Reset Confirmation for %name","Підтвердження скидання пароля для %name",module,Magento_User
 "%name,","%name,",module,Magento_User
 "There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
 "If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
@@ -11829,7 +11829,7 @@ Resources,Resources,module,Magento_User
 "Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_User
 "Password Lifetime (days)","Password Lifetime (days)",module,Magento_User
 "We will disable this feature if the value is empty.","We will disable this feature if the value is empty.",module,Magento_User
-"Password Change","Password Change",module,Magento_User
+"Password Change","Зміна пароля",module,Magento_User
 Unlock,Unlock,module,Magento_User
 ID,ID,module,Magento_User
 Username,Username,module,Magento_User
@@ -12000,12 +12000,12 @@ Name,Ім'я,module,Magento_Variable
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Збережені способи оплати",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Card Number",module,Magento_Vault
 "Expiration Date","Expiration Date",module,Magento_Vault
 Type,Type,module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","У Вас немає збережених способів оплати.",module,Magento_Vault
 ending,ending,module,Magento_Vault
 Actions,Actions,module,Magento_Vault
 Delete,Delete,module,Magento_Vault
@@ -12174,8 +12174,8 @@ Contains,Contains,module,Magento_VisualMerchandiser
 "Move out of stock to bottom","Move out of stock to bottom",module,Magento_VisualMerchandiser
 "Price: High to low","Price: High to low",module,Magento_VisualMerchandiser
 "Price: Low to high","Price: Low to high",module,Magento_VisualMerchandiser
-"SKU: Ascending","SKU: Ascending",module,Magento_VisualMerchandiser
-"SKU: Descending","SKU: Descending",module,Magento_VisualMerchandiser
+"SKU: Ascending","Артикул: за зростанням",module,Magento_VisualMerchandiser
+"SKU: Descending","Артикул: за спаданням",module,Magento_VisualMerchandiser
 "Sort by color","Sort by color",module,Magento_VisualMerchandiser
 "Special price to bottom","Special price to bottom",module,Magento_VisualMerchandiser
 "Special price to top","Special price to top",module,Magento_VisualMerchandiser
@@ -12369,7 +12369,7 @@ Conditions,Conditions,module,Magento_Widget
 "Widget ID","Widget ID",module,Magento_Widget
 "Wish List","Список Бажань",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","Мої Списки Бажань",module,Magento_Wishlist
+"My Wish List","Мій список бажань",module,Magento_Wishlist
 "%1's Wish List","%1 в список побажань",module,Magento_Wishlist
 "Page not found.","Сторінка не знайдена.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
@@ -12428,7 +12428,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Share Wish List","Share Wish List",module,Magento_Wishlist
 "Add All to Cart","Add All to Cart",module,Magento_Wishlist
 "Update Wish List","Update Wish List",module,Magento_Wishlist
-"Move to Wishlist","Move to Wishlist",module,Magento_Wishlist
+"Move to Wishlist","Перемістити до списку бажань",module,Magento_Wishlist
 "Add to Wish List","Додати до Списку Бажань",module,Magento_Wishlist
 "View Product","View Product",module,Magento_Wishlist
 Qty,Кіл-ть,module,Magento_Wishlist
@@ -12475,7 +12475,7 @@ Enabled,Ввімкнено,module,Magento_Wishlist
 "Display Wish List Summary","Display Wish List Summary",module,Magento_Wishlist
 "Enable RSS","Enable RSS",module,Magento_Wishlist
 "No Items Found","No Items Found",module,Magento_Wishlist
-"Product Name","Назва Продукту",module,Magento_Wishlist
+"Product Name","Назва товару",module,Magento_Wishlist
 "User Description","User Description",module,Magento_Wishlist
 Quantity,Кількість,module,Magento_Wishlist
 "Add Locale","Add Locale",module,Magento_Wishlist
@@ -12599,6 +12599,6 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
-"Address Book","Address Book",theme,frontend/Magento/luma
-"Account Information","Account Information",theme,frontend/Magento/luma
+"Account Dashboard","Приладова дошка облікового запису",theme,frontend/Magento/luma
+"Address Book","Адресна книга",theme,frontend/Magento/luma
+"Account Information","Інформація про обліковий запис",theme,frontend/Magento/luma
