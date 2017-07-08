@@ -1904,7 +1904,7 @@ Role,Роль,module,Magento_Catalog
 "In stock","В наявності",module,Magento_Catalog
 "Out of stock","Немає у наявності",module,Magento_Catalog
 "Add to Wish List","Додати до списку бажань",module,Magento_Catalog
-"You have no items to compare.","У Вас немає позицій для порівняння.",module,Magento_Catalog
+"You have no items to compare.","У Вас немає товарів для порівняння.",module,Magento_Catalog
 "Remove This Item","Видалити цю позицію",module,Magento_Catalog
 Compare,Порівняти,module,Magento_Catalog
 "Clear All","Очистити все",module,Magento_Catalog
@@ -2529,7 +2529,7 @@ Websites,Websites,module,Magento_CatalogStaging
 SKU,Артикул,module,Magento_CatalogWidget
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_CatalogWidget
 "Add to Cart","Додати в кошик",module,Magento_CatalogWidget
-"In stock",Залишок,module,Magento_CatalogWidget
+"In stock","В наявності",module,Magento_CatalogWidget
 "Out of stock","Немає у наявності",module,Magento_CatalogWidget
 "Add to Wish List","Додати до Списку Бажань",module,Magento_CatalogWidget
 "Add to Compare","Додати до порівняння",module,Magento_CatalogWidget
@@ -2656,7 +2656,7 @@ Total:,Всього:,module,Magento_Checkout
 "Email Address","Адреса ел. пошти",module,Magento_Checkout
 Password,Пароль,module,Magento_Checkout
 "Forgot Your Password?","Забули пароль?",module,Magento_Checkout
-"My billing and shipping address are the same","Моя платіжна адреса і адреса доставки співпадають",module,Magento_Checkout
+"My billing and shipping address are the same","Моя адреса виставлення рахунка і адреса доставки співпадають",module,Magento_Checkout
 Update,Оновити,module,Magento_Checkout
 Cancel,Скасувати,module,Magento_Checkout
 "Save in address book","Зберегти в адресну книгу",module,Magento_Checkout
@@ -3093,7 +3093,7 @@ Dashboard,Dashboard,module,Magento_Config
 "Developer Section","Developer Section",module,Magento_Config
 "Web Section","Web Section",module,Magento_Config
 "Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
-"Email to a Friend","Email to a Friend",module,Magento_Config
+"Email to a Friend","Надіслати другу",module,Magento_Config
 "Add configurable attributes to the current Attribute Set (""%1"")","Add configurable attributes to the current Attribute Set (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Add configurable attributes to the new Attribute Set based on current",module,Magento_ConfigurableProduct
 "New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
@@ -3109,7 +3109,7 @@ Configurations,Configurations,module,Magento_ConfigurableProduct
 "Create New Attribute","Create New Attribute",module,Magento_ConfigurableProduct
 "Select Attributes","Select Attributes",module,Magento_ConfigurableProduct
 Summary,Summary,module,Magento_ConfigurableProduct
-"Choose an Option...","Choose an Option...",module,Magento_ConfigurableProduct
+"Choose an Option...","Виберіть варіант...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","This attribute is used in configurable products.",module,Magento_ConfigurableProduct
 "Product has been already attached","Product has been already attached",module,Magento_ConfigurableProduct
 "Parent product does not have configurable product options","Parent product does not have configurable product options",module,Magento_ConfigurableProduct
@@ -3421,10 +3421,10 @@ Sending,Sending,module,Magento_Customer
 Paused,Paused,module,Magento_Customer
 View,View,module,Magento_Customer
 Unknown,Unknown,module,Magento_Customer
-Order,Order,module,Magento_Customer
+Order,Замовлення,module,Magento_Customer
 Purchased,Purchased,module,Magento_Customer
 "Bill-to Name","Bill-to Name",module,Magento_Customer
-"Ship-to Name","Ship-to Name",module,Magento_Customer
+"Ship-to Name","Ім'я отримувача",module,Magento_Customer
 "Order Total","Order Total",module,Magento_Customer
 "Purchase Point","Purchase Point",module,Magento_Customer
 "Customer View","Customer View",module,Magento_Customer
@@ -3475,7 +3475,7 @@ Download,Download,module,Magento_Customer
 "Validate VAT Number","Validate VAT Number",module,Magento_Customer
 "Customer Login","Вхід покупця",module,Magento_Customer
 "Create New Customer Account","Створити новий обліковий запис покупця",module,Magento_Customer
-"Date of Birth","Date of Birth",module,Magento_Customer
+"Date of Birth","Дата народження",module,Magento_Customer
 "Bad request.","Bad request.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","This confirmation key is invalid or has expired.",module,Magento_Customer
 "There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
@@ -3680,15 +3680,15 @@ Change,Change,module,Magento_Customer
 "Contact Information","Контактна інформація",module,Magento_Customer
 "Change Password","Змінити пароль",module,Magento_Customer
 Newsletters,"Розсилки новин",module,Magento_Customer
-"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription"".",module,Magento_Customer
+"You subscribe to ""General Subscription"".","Ви підписалися на ""Загальна підписка"".",module,Magento_Customer
 or,або,module,Magento_Customer
 "Default Addresses","Адреси за промовчанням",module,Magento_Customer
 "Change Billing Address","Change Billing Address",module,Magento_Customer
 "You have no default billing address in your address book.","У Вас немає адреси виставлення рахунка за промовчанням у Вашій адресній книзі.",module,Magento_Customer
 "Change Shipping Address","Змінити адресу доставки",module,Magento_Customer
 "You have no default shipping address in your address book.","У Вас немає адреси доставки за промовчанням у Вашій адресній книзі.",module,Magento_Customer
-"Additional Address Entries","Записи додаткових адрес",module,Magento_Customer
-"Delete Address","Delete Address",module,Magento_Customer
+"Additional Address Entries","Додаткові адреси",module,Magento_Customer
+"Delete Address","Видалити адресу",module,Magento_Customer
 "You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Customer
 "* Required Fields","* Обов'язкові поля",module,Magento_Customer
 Company,Компанія,module,Magento_Customer
@@ -3924,7 +3924,7 @@ Used,Used,module,Magento_CustomerBalance
 Refunded,Refunded,module,Magento_CustomerBalance
 Reverted,Reverted,module,Magento_CustomerBalance
 "You need a balance to save your balance history.","You need a balance to save your balance history.",module,Magento_CustomerBalance
-"Order #%1","Order #%1",module,Magento_CustomerBalance
+"Order #%1","Замовлення #%1",module,Magento_CustomerBalance
 "There is no credit memo set to balance model.","There is no credit memo set to balance model.",module,Magento_CustomerBalance
 "Order #%1, creditmemo #%2","Order #%1, creditmemo #%2",module,Magento_CustomerBalance
 "Unknown balance history action code","Unknown balance history action code",module,Magento_CustomerBalance
@@ -4163,7 +4163,7 @@ To,До,module,Magento_CustomerSegment
 Reports,Звіти,module,Magento_CustomerSegment
 Customers,Покупці,module,Magento_CustomerSegment
 "Viewing combined ""%1"" report from segments: %2.","Viewing combined ""%1"" report from segments: %2.",module,Magento_CustomerSegment
-Details,Details,module,Magento_CustomerSegment
+Details,Подробиці,module,Magento_CustomerSegment
 "The Customer Segment data has been refreshed.","The Customer Segment data has been refreshed.",module,Magento_CustomerSegment
 Union,Union,module,Magento_CustomerSegment
 Intersection,Intersection,module,Magento_CustomerSegment
@@ -4241,7 +4241,7 @@ matches,matches,module,Magento_CustomerSegment
 "is not one of","is not one of",module,Magento_CustomerSegment
 "Shopping Cart Total","Shopping Cart Total",module,Magento_CustomerSegment
 Subtotal,"Проміжні підсумки",module,Magento_CustomerSegment
-"Grand Total","Grand Total",module,Magento_CustomerSegment
+"Grand Total","Загальний підсумок",module,Magento_CustomerSegment
 Tax,Податок,module,Magento_CustomerSegment
 "Gift Card","Gift Card",module,Magento_CustomerSegment
 "Shopping Cart %1 Amount %2 %3:","Shopping Cart %1 Amount %2 %3:",module,Magento_CustomerSegment
@@ -4567,17 +4567,17 @@ U,U,module,Magento_Downloadable
 "Select all","Вибрати все",module,Magento_Downloadable
 "Unselect all","Unselect all",module,Magento_Downloadable
 Availability,Наявність,module,Magento_Downloadable
-"In stock",Залишок,module,Magento_Downloadable
+"In stock","В наявності",module,Magento_Downloadable
 "Out of stock","Немає у наявності",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Перейти до <a href=""%1""> Мої завантажувані товари</a>",module,Magento_Downloadable
 "Downloadable Products","Downloadable Products",module,Magento_Downloadable
-"Order #","Order #",module,Magento_Downloadable
-Date,Date,module,Magento_Downloadable
+"Order #","Замовлення #",module,Magento_Downloadable
+Date,Дата,module,Magento_Downloadable
 Status,Статус,module,Magento_Downloadable
 "Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
-"View Order","View Order",module,Magento_Downloadable
+"View Order","Переглянути замовлення",module,Magento_Downloadable
 "Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Ви ще не придбали жодних завантажуваних товарів.",module,Magento_Downloadable
 Back,Назад,module,Magento_Downloadable
 download,download,module,Magento_Downloadable
 "Gift Message","Gift Message",module,Magento_Downloadable
@@ -4634,7 +4634,7 @@ Letters,Letters,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
 "Text Field","Text Field",module,Magento_Eav
 "Text Area","Text Area",module,Magento_Eav
-Date,Date,module,Magento_Eav
+Date,Дата,module,Magento_Eav
 Yes/No,Yes/No,module,Magento_Eav
 "Multiple Select","Multiple Select",module,Magento_Eav
 Dropdown,Dropdown,module,Magento_Eav
@@ -5058,7 +5058,7 @@ From,Від,module,Magento_GiftCard
 "Minimum: %1","Minimum: %1",module,Magento_GiftCard
 "Maximum: %1","Maximum: %1",module,Magento_GiftCard
 Availability,Наявність,module,Magento_GiftCard
-"In stock",Залишок,module,Magento_GiftCard
+"In stock","В наявності",module,Magento_GiftCard
 "You've been sent a gift from %store_name","You've been sent a gift from %store_name",module,Magento_GiftCard
 "%name,","%name,",module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.",module,Magento_GiftCard
@@ -5086,7 +5086,7 @@ Delete,Видалити,module,Magento_GiftCardAccount
 "Edit Gift Card Account: %1","Edit Gift Card Account: %1",module,Magento_GiftCardAccount
 "New Gift Card Account","New Gift Card Account",module,Magento_GiftCardAccount
 ID,ID,module,Magento_GiftCardAccount
-Date,Date,module,Magento_GiftCardAccount
+Date,Дата,module,Magento_GiftCardAccount
 Action,Дія,module,Magento_GiftCardAccount
 "Balance Change","Balance Change",module,Magento_GiftCardAccount
 Balance,Balance,module,Magento_GiftCardAccount
@@ -5151,7 +5151,7 @@ Expired,Expired,module,Magento_GiftCardAccount
 Created,Created,module,Magento_GiftCardAccount
 Updated,Оновлено,module,Magento_GiftCardAccount
 Sent,Sent,module,Magento_GiftCardAccount
-"Order #%1.","Order #%1.",module,Magento_GiftCardAccount
+"Order #%1.","Замовлення #%1.",module,Magento_GiftCardAccount
 "Recipient: %1.","Recipient: %1.",module,Magento_GiftCardAccount
 "Customer #%1.","Customer #%1.",module,Magento_GiftCardAccount
 "Please assign a gift card account.","Please assign a gift card account.",module,Magento_GiftCardAccount
@@ -5562,7 +5562,7 @@ Role,Роль,module,Magento_GiftRegistry
 "Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
 "Gift Registry Update","Gift Registry Update",module,Magento_GiftRegistry
 Select,Select,module,Magento_GiftRegistry
-Date,Date,module,Magento_GiftRegistry
+Date,Дата,module,Magento_GiftRegistry
 "Event Region Id","Event Region Id",module,Magento_GiftRegistry
 "Event Region Text","Event Region Text",module,Magento_GiftRegistry
 "Event Location","Event Location",module,Magento_GiftRegistry
@@ -5715,7 +5715,7 @@ Qty,Кіл-ть,module,Magento_GroupedProduct
 "Default Qty","Default Qty",module,Magento_GroupedProduct
 "Starting at","Starting at",module,Magento_GroupedProduct
 Availability,Наявність,module,Magento_GroupedProduct
-"In stock",Залишок,module,Magento_GroupedProduct
+"In stock","В наявності",module,Magento_GroupedProduct
 "Grouped product items","Grouped product items",module,Magento_GroupedProduct
 "Grouped Product Image","Grouped Product Image",module,Magento_GroupedProduct
 Select...,Select...,module,Magento_GroupedProduct
@@ -6228,7 +6228,7 @@ New,New,module,Magento_Logging
 "Forgot Password","Forgot Password",module,Magento_Logging
 "Global Search","Global Search",module,Magento_Logging
 Apply,Застосувати,module,Magento_Logging
-Reorder,Reorder,module,Magento_Logging
+Reorder,"Повторити замовлення",module,Magento_Logging
 Print,Друк,module,Magento_Logging
 Email,"Електронна пошта",module,Magento_Logging
 Run,Run,module,Magento_Logging
@@ -6288,7 +6288,7 @@ Widget,Widget,module,Magento_Logging
 "Cache Management","Cache Management",module,Magento_Logging
 "PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Logging
 "Archive File","Archive File",module,Magento_Logging
-Date,Date,module,Magento_Logging
+Date,Дата,module,Magento_Logging
 CSV,CSV,module,Magento_Logging
 "Excel XML","Excel XML",module,Magento_Logging
 Time,Time,module,Magento_Logging
@@ -6298,7 +6298,7 @@ Action,Дія,module,Magento_Logging
 Username,Username,module,Magento_Logging
 Result,Result,module,Magento_Logging
 "Full Action Name","Full Action Name",module,Magento_Logging
-Details,Details,module,Magento_Logging
+Details,Подробиці,module,Magento_Logging
 "Full Details","Full Details",module,Magento_Logging
 Partners,Партнери,module,Magento_Marketplace
 "Magento Marketplace","Magento Marketplace",module,Magento_Marketplace
@@ -6589,7 +6589,7 @@ Edit,Редагувати,module,Magento_Multishipping
 Price,Ціна,module,Magento_Multishipping
 Subtotal,"Проміжні підсумки",module,Magento_Multishipping
 Items,Елементи,module,Magento_Multishipping
-"Grand Total:","Grand Total:",module,Magento_Multishipping
+"Grand Total:","Загальний підсумок:",module,Magento_Multishipping
 "Submitting order information...","Submitting order information...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
 "Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
@@ -6968,7 +6968,7 @@ Cancel,Скасувати,module,Magento_Paypal
 "Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
 "General Information","General Information",module,Magento_Paypal
 "Related Orders","Related Orders",module,Magento_Paypal
-Order,Order,module,Magento_Paypal
+Order,Замовлення,module,Magento_Paypal
 Purchased,Purchased,module,Magento_Paypal
 "Bill-to Name","Bill-to Name",module,Magento_Paypal
 "Ship-to Name","Ship-to Name",module,Magento_Paypal
@@ -7190,7 +7190,7 @@ Event,Event,module,Magento_Paypal
 "Fee Debit or Credit","Fee Debit or Credit",module,Magento_Paypal
 "Fee Amount","Fee Amount",module,Magento_Paypal
 Custom,Користувацький,module,Magento_Paypal
-"Order ID","Order ID",module,Magento_Paypal
+"Order ID","Ідентифікатор замовлення",module,Magento_Paypal
 "Preapproved Payment ID","Preapproved Payment ID",module,Magento_Paypal
 "Subscription ID","Subscription ID",module,Magento_Paypal
 Credit,Кредит,module,Magento_Paypal
@@ -7320,11 +7320,11 @@ Status:,Status:,module,Magento_Paypal
 Created:,Created:,module,Magento_Paypal
 Updated:,Updated:,module,Magento_Paypal
 "Payment Method:","Payment Method:",module,Magento_Paypal
-"Order #","Order #",module,Magento_Paypal
+"Order #","Замовлення #",module,Magento_Paypal
 Date,Date,module,Magento_Paypal
-"Ship To","Ship To",module,Magento_Paypal
+"Ship To",Отримувач,module,Magento_Paypal
 "Order Status","Статус замовлення",module,Magento_Paypal
-"View Order","View Order",module,Magento_Paypal
+"View Order","Переглянути замовлення",module,Magento_Paypal
 "Back to Billing Agreements","Повернутися до білінгових угод",module,Magento_Paypal
 "Payment Method","Спосіб оплати",module,Magento_Paypal
 View,View,module,Magento_Paypal
@@ -7710,9 +7710,9 @@ Delete,Видалити,module,Magento_ProductVideo
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
-"Grand Total","Grand Total",module,Magento_Quote
-"Shipping & Handling (%1)","Shipping & Handling (%1)",module,Magento_Quote
-"Shipping & Handling","Shipping & Handling",module,Magento_Quote
+"Grand Total","Загальний підсумок",module,Magento_Quote
+"Shipping & Handling (%1)","Доставка та оброблення (%1)",module,Magento_Quote
+"Shipping & Handling","Доставка та оброблення",module,Magento_Quote
 Shipping,Доставка,module,Magento_Quote
 Subtotal,"Проміжні підсумки",module,Magento_Quote
 "We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
@@ -7834,7 +7834,7 @@ for,for,module,Magento_Reminder
 "The root shopping cart condition should have a days value of 0 or greater.","The root shopping cart condition should have a days value of 0 or greater.",module,Magento_Reminder
 "Total Amount","Total Amount",module,Magento_Reminder
 subtotal,subtotal,module,Magento_Reminder
-"grand total","grand total",module,Magento_Reminder
+"grand total","загальний підсумок",module,Magento_Reminder
 "Shopping cart %1 amount %2 %3:","Shopping cart %1 amount %2 %3:",module,Magento_Reminder
 "Unknown quote total specified","Unknown quote total specified",module,Magento_Reminder
 "Numeric Attribute","Numeric Attribute",module,Magento_Reminder
@@ -8036,7 +8036,7 @@ Reviews,Відгуки,module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
 "Product Reviews","Product Reviews",module,Magento_Reports
-Details,Details,module,Magento_Reports
+Details,Подробиці,module,Magento_Reports
 Sales,Продажі,module,Magento_Reports
 "Bestsellers Report","Bestsellers Report",module,Magento_Reports
 Coupons,Coupons,module,Magento_Reports
@@ -8065,7 +8065,7 @@ Bestsellers,"Лідери продажів",module,Magento_Reports
 "Most Viewed Products Report","Most Viewed Products Report",module,Magento_Reports
 Error,Помилка,module,Magento_Reports
 "Show By","Show By",module,Magento_Reports
-"Select Date","Select Date",module,Magento_Reports
+"Select Date","Вибрати дату",module,Magento_Reports
 "Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
 "Number of Wish Lists: %1","Number of Wish Lists: %1",module,Magento_Reports
 "Number of items bought from a Wish List: %1","Number of items bought from a Wish List: %1",module,Magento_Reports
@@ -8076,7 +8076,7 @@ Error,Помилка,module,Magento_Reports
 "All Websites","Всі Веб-сайти",module,Magento_Reports
 "Recently Viewed","Recently Viewed",module,Magento_Reports
 "Add to Cart","Додати в кошик",module,Magento_Reports
-"In stock",Залишок,module,Magento_Reports
+"In stock","В наявності",module,Magento_Reports
 "Out of stock","Немає у наявності",module,Magento_Reports
 "Add to Wish List","Додати до Списку Бажань",module,Magento_Reports
 "Add to Compare","Додати до порівняння",module,Magento_Reports
@@ -8140,7 +8140,7 @@ Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
-"Review Details","Review Details",module,Magento_Review
+"Review Details",Детальніше,module,Magento_Review
 Product,Продукт,module,Magento_Review
 "Product Rating","Product Rating",module,Magento_Review
 Status,Статус,module,Magento_Review
@@ -8239,11 +8239,11 @@ Pending,Pending,module,Magento_Review
 "Product Name","Назва товару",module,Magento_Review
 Rating,Рейтинг,module,Magento_Review
 Actions,Дії,module,Magento_Review
-"See Details","See Details",module,Magento_Review
-"You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
+"See Details","Див. докладніше",module,Magento_Review
+"You have submitted no reviews.","Ви не подавали жодних оглядів.",module,Magento_Review
 Back,Назад,module,Magento_Review
 "My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
+"View All","Переглянути всі",module,Magento_Review
 "Average Customer Rating:","Average Customer Rating:",module,Magento_Review
 "Your Review","Your Review",module,Magento_Review
 "Submitted on %1","Submitted on %1",module,Magento_Review
@@ -8372,7 +8372,7 @@ Back,Назад,module,Magento_Reward
 Amount,Amount,module,Magento_Reward
 Points,Points,module,Magento_Reward
 Reason,Reason,module,Magento_Reward
-Date,Date,module,Magento_Reward
+Date,Дата,module,Magento_Reward
 "Expires on %1","Expires on %1",module,Magento_Reward
 "There is no balance history.","There is no balance history.",module,Magento_Reward
 "Reward points balance Information","Reward points balance Information",module,Magento_Reward
@@ -8458,7 +8458,7 @@ Returns,Returns,module,Magento_Rma
 "Create New RMA for %1","Create New RMA for %1",module,Magento_Rma
 "Create New RMA","Create New RMA",module,Magento_Rma
 "Please Select Order","Please Select Order",module,Magento_Rma
-Order,Order,module,Magento_Rma
+Order,Замовлення,module,Magento_Rma
 "Purchase Point","Purchase Point",module,Magento_Rma
 Purchased,Purchased,module,Magento_Rma
 "Customer First Name","Customer First Name",module,Magento_Rma
@@ -8494,7 +8494,7 @@ Approved,Approved,module,Magento_Rma
 "Return Reason","Return Reason",module,Magento_Rma
 "Item Condition","Item Condition",module,Magento_Rma
 Resolution,Resolution,module,Magento_Rma
-Details,Details,module,Magento_Rma
+Details,Подробиці,module,Magento_Rma
 Split,Split,module,Magento_Rma
 Action,Дія,module,Magento_Rma
 "Return Information","Return Information",module,Magento_Rma
@@ -8616,7 +8616,7 @@ Dropdown,Dropdown,module,Magento_Rma
 "Only one RMA is available for printing","Only one RMA is available for printing",module,Magento_Rma
 "Return #","Return #",module,Magento_Rma
 "Return Date:","Return Date:",module,Magento_Rma
-"Order #","Order #",module,Magento_Rma
+"Order #","Замовлення #",module,Magento_Rma
 Ordered:,Ordered:,module,Magento_Rma
 "Shipping Address:","Shipping Address:",module,Magento_Rma
 "Return Address:","Return Address:",module,Magento_Rma
@@ -8673,7 +8673,7 @@ Message,Повідомлення,module,Magento_Rma
 "Request Details","Request Details",module,Magento_Rma
 ID,ID,module,Magento_Rma
 #,#,module,Magento_Rma
-"Order ID","Order ID",module,Magento_Rma
+"Order ID","Ідентифікатор замовлення",module,Magento_Rma
 "Customer Name","Customer Name",module,Magento_Rma
 "Email Address","Email Address",module,Magento_Rma
 "RMA History","RMA History",module,Magento_Rma
@@ -8721,7 +8721,7 @@ Save,Зберегти,module,Magento_Rma
 Submit,Submit,module,Magento_Rma
 Back,Назад,module,Magento_Rma
 "Return #","Return #",module,Magento_Rma
-Date,Date,module,Magento_Rma
+Date,Дата,module,Magento_Rma
 "Ship From","Ship From",module,Magento_Rma
 "Return Status","Return Status",module,Magento_Rma
 Actions,Дії,module,Magento_Rma
@@ -8874,7 +8874,7 @@ Message,Повідомлення,module,Magento_Sales
 "Create New Order in %1","Create New Order in %1",module,Magento_Sales
 "Create New Order for %1","Create New Order for %1",module,Magento_Sales
 "Create New Order for New Customer","Create New Order for New Customer",module,Magento_Sales
-"Items Ordered","Items Ordered",module,Magento_Sales
+"Items Ordered","Замовлені позиції",module,Magento_Sales
 "This product is disabled.","This product is disabled.",module,Magento_Sales
 "Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
 "Item ordered qty","Item ordered qty",module,Magento_Sales
@@ -8902,7 +8902,7 @@ Quantity,Кількість,module,Magento_Sales
 "Products in Comparison List","Products in Comparison List",module,Magento_Sales
 "Recently Compared Products","Recently Compared Products",module,Magento_Sales
 "Recently Viewed Products","Recently Viewed Products",module,Magento_Sales
-"Last Ordered Items","Last Ordered Items",module,Magento_Sales
+"Last Ordered Items","Останні замовлені позиції",module,Magento_Sales
 "Recently Viewed","Recently Viewed",module,Magento_Sales
 "Wish List","Список Бажань",module,Magento_Sales
 "Please select a store","Please select a store",module,Magento_Sales
@@ -8979,7 +8979,7 @@ unhold,unhold,module,Magento_Sales
 "Invoice and Ship","Invoice and Ship",module,Magento_Sales
 Invoice,Invoice,module,Magento_Sales
 Ship,Ship,module,Magento_Sales
-Reorder,Reorder,module,Magento_Sales
+Reorder,"Повторити замовлення",module,Magento_Sales
 "Order # %1 %2 | %3","Order # %1 %2 | %3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Are you sure? This order will be canceled and a new one will be created instead.",module,Magento_Sales
@@ -8996,7 +8996,7 @@ Reorder,Reorder,module,Magento_Sales
 "Comments History","Comments History",module,Magento_Sales
 "Order History","Історія замовлень",module,Magento_Sales
 Information,Information,module,Magento_Sales
-"Order Information","Order Information",module,Magento_Sales
+"Order Information","Відомості про замовлення",module,Magento_Sales
 "Order Invoices","Order Invoices",module,Magento_Sales
 Shipments,Shipments,module,Magento_Sales
 "Order Shipments","Order Shipments",module,Magento_Sales
@@ -9011,10 +9011,10 @@ No,Ні,module,Magento_Sales
 "Show Actual Values","Show Actual Values",module,Magento_Sales
 "New Order RSS","New Order RSS",module,Magento_Sales
 Subtotal,"Проміжні підсумки",module,Magento_Sales
-"Shipping & Handling","Shipping & Handling",module,Magento_Sales
+"Shipping & Handling","Доставка та оброблення",module,Magento_Sales
 "Discount (%1)","Discount (%1)",module,Magento_Sales
 Discount,Знижка,module,Magento_Sales
-"Grand Total","Grand Total",module,Magento_Sales
+"Grand Total","Загальний підсумок",module,Magento_Sales
 Back,Назад,module,Magento_Sales
 Fetch,Fetch,module,Magento_Sales
 "Transaction # %1 | %2","Transaction # %1 | %2",module,Magento_Sales
@@ -9030,7 +9030,7 @@ Value,Value,module,Magento_Sales
 "Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
 "About Your Invoice","About Your Invoice",module,Magento_Sales
 "Print Order # %1","Print Order # %1",module,Magento_Sales
-"Grand Total to be Charged","Grand Total to be Charged",module,Magento_Sales
+"Grand Total to be Charged","Загальний підсумок до оплати",module,Magento_Sales
 Unassign,Unassign,module,Magento_Sales
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Sales
 "You sent the message.","You sent the message.",module,Magento_Sales
@@ -9221,16 +9221,16 @@ Mixed,Mixed,module,Magento_Sales
 "The transaction ""%1"" (%2) is already closed.","The transaction ""%1"" (%2) is already closed.",module,Magento_Sales
 "Set order for existing transactions not allowed","Set order for existing transactions not allowed",module,Magento_Sales
 "At minimum, you need to set a payment ID.","At minimum, you need to set a payment ID.",module,Magento_Sales
-Order,Order,module,Magento_Sales
+Order,Замовлення,module,Magento_Sales
 Authorization,Authorization,module,Magento_Sales
 "We found an unsupported transaction type ""%1"".","We found an unsupported transaction type ""%1"".",module,Magento_Sales
 "Please set a proper payment and order id.","Please set a proper payment and order id.",module,Magento_Sales
 "Please enter a Transaction ID.","Please enter a Transaction ID.",module,Magento_Sales
 "You can't do this without a transaction object.","You can't do this without a transaction object.",module,Magento_Sales
-"Order #","Order #",module,Magento_Sales
+"Order #","Замовлення #",module,Magento_Sales
 "Order Date:","Order Date:",module,Magento_Sales
 "Sold to:","Sold to:",module,Magento_Sales
-"Ship to:","Ship to:",module,Magento_Sales
+"Ship to:",Отримувач:,module,Magento_Sales
 "Payment Method:","Payment Method:",module,Magento_Sales
 "Shipping Method:","Shipping Method:",module,Magento_Sales
 "Total Shipping Charges","Total Shipping Charges",module,Magento_Sales
@@ -9353,7 +9353,7 @@ Remove,Вилучити,module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
 "Row Subtotal","Row Subtotal",module,Magento_Sales
 Action,Дія,module,Magento_Sales
-"No ordered items","No ordered items",module,Magento_Sales
+"No ordered items","Немає замовлених позицій",module,Magento_Sales
 "Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
 "Total %1 product(s)","Всього %1 продукт(ів)",module,Magento_Sales
 Subtotal:,"Проміжний підсумок:",module,Magento_Sales
@@ -9405,7 +9405,7 @@ Item,Позиція,module,Magento_Sales
 From:,From:,module,Magento_Sales
 To:,To:,module,Magento_Sales
 Message:,Message:,module,Magento_Sales
-"Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
+"Shipping &amp; Handling","Доставка та оброблення",module,Magento_Sales
 "Gift Options","Gift Options",module,Magento_Sales
 "Create Shipment","Create Shipment",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
@@ -9463,11 +9463,11 @@ Continue,Continue,module,Magento_Sales
 "Refund #","Refund #",module,Magento_Sales
 "Print Refund","Print Refund",module,Magento_Sales
 "Product Name","Назва товару",module,Magento_Sales
-"Order #","Order #",module,Magento_Sales
-Date,Date,module,Magento_Sales
-"Ship To","Ship To",module,Magento_Sales
+"Order #","Замовлення #",module,Magento_Sales
+Date,Дата,module,Magento_Sales
+"Ship To",Отримувач,module,Magento_Sales
 Actions,Дії,module,Magento_Sales
-"View Order","View Order",module,Magento_Sales
+"View Order","Переглянути замовлення",module,Magento_Sales
 "You have placed no orders.","You have placed no orders.",module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
 "Print Order","Print Order",module,Magento_Sales
@@ -9481,10 +9481,10 @@ Close,Закрити,module,Magento_Sales
 "Refund #%1","Refund #%1",module,Magento_Sales
 "Shipment #%1","Shipment #%1",module,Magento_Sales
 "Qty Shipped","Qty Shipped",module,Magento_Sales
-"Recent Orders","Recent Orders",module,Magento_Sales
-"View All","View All",module,Magento_Sales
+"Recent Orders","Нещодавні замовлення",module,Magento_Sales
+"View All","Переглянути всі",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
-"Recently Ordered","Recently Ordered",module,Magento_Sales
+"Recently Ordered","Нещодавно замовлені",module,Magento_Sales
 "Add to Cart","Додати в кошик",module,Magento_Sales
 Search,Пошук,module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
@@ -9615,7 +9615,7 @@ Website,Website,module,Magento_Sales
 "Bill-to Name","Bill-to Name",module,Magento_Sales
 Created,Created,module,Magento_Sales
 "Invoice Date","Invoice Date",module,Magento_Sales
-"Ship-to Name","Ship-to Name",module,Magento_Sales
+"Ship-to Name","Ім'я отримувача",module,Magento_Sales
 "Ship Date","Ship Date",module,Magento_Sales
 "Total Quantity","Total Quantity",module,Magento_Sales
 "Default Status","Default Status",module,Magento_Sales
@@ -9668,7 +9668,7 @@ Add,Add,module,Magento_SalesArchive
 "PDF Credit Memos","PDF Credit Memos",module,Magento_SalesArchive
 "Credit Memo","Credit Memo",module,Magento_SalesArchive
 Created,Created,module,Magento_SalesArchive
-Order,Order,module,Magento_SalesArchive
+Order,Замовлення,module,Magento_SalesArchive
 "Order Date","Order Date",module,Magento_SalesArchive
 "Bill-to Name","Bill-to Name",module,Magento_SalesArchive
 Status,Статус,module,Magento_SalesArchive
@@ -9682,10 +9682,10 @@ Email,"Електронна пошта",module,Magento_SalesArchive
 "Payment Method","Спосіб оплати",module,Magento_SalesArchive
 "Shipping Information","Shipping Information",module,Magento_SalesArchive
 Subtotal,"Проміжні підсумки",module,Magento_SalesArchive
-"Shipping & Handling","Shipping & Handling",module,Magento_SalesArchive
+"Shipping & Handling","Доставка та оброблення",module,Magento_SalesArchive
 "Adjustment Refund","Adjustment Refund",module,Magento_SalesArchive
 "Adjustment Fee","Adjustment Fee",module,Magento_SalesArchive
-"Grand Total","Grand Total",module,Magento_SalesArchive
+"Grand Total","Загальний підсумок",module,Magento_SalesArchive
 "Return to Order Management","Return to Order Management",module,Magento_SalesArchive
 "Purchase Point","Purchase Point",module,Magento_SalesArchive
 Cancel,Скасувати,module,Magento_SalesArchive
@@ -9699,7 +9699,7 @@ Unhold,Unhold,module,Magento_SalesArchive
 "Remove to Archive","Remove to Archive",module,Magento_SalesArchive
 ID,ID,module,Magento_SalesArchive
 "Purchase Date","Purchase Date",module,Magento_SalesArchive
-"Ship-to Name","Ship-to Name",module,Magento_SalesArchive
+"Ship-to Name","Ім'я отримувача",module,Magento_SalesArchive
 "Grand Total (Base)","Grand Total (Base)",module,Magento_SalesArchive
 "Grand Total (Purchased)","Grand Total (Purchased)",module,Magento_SalesArchive
 "Customer Email","Customer Email",module,Magento_SalesArchive
@@ -9708,7 +9708,7 @@ ID,ID,module,Magento_SalesArchive
 "PDF Invoices","PDF Invoices",module,Magento_SalesArchive
 Invoice,Invoice,module,Magento_SalesArchive
 "Invoice Date","Invoice Date",module,Magento_SalesArchive
-"Order #","Order #",module,Magento_SalesArchive
+"Order #","Замовлення #",module,Magento_SalesArchive
 Amount,Amount,module,Magento_SalesArchive
 "PDF Shipments","PDF Shipments",module,Magento_SalesArchive
 Shipment,Shipment,module,Magento_SalesArchive
@@ -10221,7 +10221,7 @@ Back,Назад,module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
-"Email to a Friend","Email to a Friend",module,Magento_SendFriend
+"Email to a Friend","Надіслати другу",module,Magento_SendFriend
 "Email Templates","Email Templates",module,Magento_SendFriend
 Enabled,Ввімкнено,module,Magento_SendFriend
 "Select Email Template","Select Email Template",module,Magento_SendFriend
@@ -10248,7 +10248,7 @@ Print,Друк,module,Magento_Shipping
 "Print Shipping Label","Print Shipping Label",module,Magento_Shipping
 "Show Packages","Show Packages",module,Magento_Shipping
 "About Your Shipment","About Your Shipment",module,Magento_Shipping
-"Order # %1","Order # %1",module,Magento_Shipping
+"Order # %1","Замовлення # %1",module,Magento_Shipping
 "Back to My Orders","Повернутися до моїх замовлень",module,Magento_Shipping
 "View Another Order","View Another Order",module,Magento_Shipping
 "Please enter a comment.","Please enter a comment.",module,Magento_Shipping
@@ -10356,7 +10356,7 @@ Title,Назва,module,Magento_Shipping
 Number,Number,module,Magento_Shipping
 Action,Дія,module,Magento_Shipping
 "Are you sure?","Ви впевнені?",module,Magento_Shipping
-"Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
+"Shipping &amp; Handling Information","Інформація про доставку та оброблення",module,Magento_Shipping
 "Track Order","Track Order",module,Magento_Shipping
 "No shipping information available","No shipping information available",module,Magento_Shipping
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
@@ -10388,7 +10388,7 @@ N/A,Н/Д,module,Magento_Shipping
 "Close Window","Close Window",module,Magento_Shipping
 "Track history","Track history",module,Magento_Shipping
 Location,Location,module,Magento_Shipping
-Date,Date,module,Magento_Shipping
+Date,Дата,module,Magento_Shipping
 "Local Time","Local Time",module,Magento_Shipping
 Description,Description,module,Magento_Shipping
 "See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
@@ -11045,8 +11045,8 @@ Priority,Priority,module,Magento_Tax
 "Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Tax
 "Subtotal (Excl.Tax)","Subtotal (Excl.Tax)",module,Magento_Tax
 "Subtotal (Incl.Tax)","Subtotal (Incl.Tax)",module,Magento_Tax
-"Shipping & Handling (Excl.Tax)","Shipping & Handling (Excl.Tax)",module,Magento_Tax
-"Shipping & Handling (Incl.Tax)","Shipping & Handling (Incl.Tax)",module,Magento_Tax
+"Shipping & Handling (Excl.Tax)","Доставка та оброблення (за виключенням податків)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","Доставка та оброблення (включаючи податки)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Grand Total (Excl.Tax)",module,Magento_Tax
 "Grand Total (Incl.Tax)","Grand Total (Incl.Tax)",module,Magento_Tax
 Sales,Продажі,module,Magento_Tax
@@ -11315,7 +11315,7 @@ Remove,Вилучити,module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","This is demo store. No orders will be fulfilled.",module,Magento_Theme
-"Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",module,Magento_Theme
+"Items %1 to %2 of %3 total","Позиції з %1 по %2 із %3 всього",module,Magento_Theme
 "%1 Item","%1 Item",module,Magento_Theme
 "%1 Item(s)","%1 Item(s)",module,Magento_Theme
 Page,Сторінка,module,Magento_Theme
@@ -11323,7 +11323,7 @@ Previous,Попередній,module,Magento_Theme
 "You're currently reading page","You're currently reading page",module,Magento_Theme
 Next,Наступний,module,Magento_Theme
 Show,Показати,module,Magento_Theme
-"per page","per page",module,Magento_Theme
+"per page","на сторінці",module,Magento_Theme
 "About the calendar","About the calendar",module,Magento_Theme
 Close,Закрити,module,Magento_Theme
 "Go Today","Go Today",module,Magento_Theme
@@ -11446,7 +11446,7 @@ to,to,module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Search by keyword",module,Magento_Ui
 Keyword,Keyword,module,Magento_Ui
-"Select Date","Select Date",module,Magento_Ui
+"Select Date","Вибрати дату",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols.",module,Magento_Ui
 "Please enter {0} words or less.","Please enter {0} words or less.",module,Magento_Ui
@@ -12186,7 +12186,7 @@ Remove,Вилучити,module,Magento_VisualMerchandiser
 Grid,Таблиця,module,Magento_VisualMerchandiser
 Tile,Tile,module,Magento_VisualMerchandiser
 "records found","records found",module,Magento_VisualMerchandiser
-"per page","per page",module,Magento_VisualMerchandiser
+"per page","на сторінці",module,Magento_VisualMerchandiser
 "Previous page","Previous page",module,Magento_VisualMerchandiser
 "of %1","of %1",module,Magento_VisualMerchandiser
 "Next page","Next page",module,Magento_VisualMerchandiser
@@ -12392,7 +12392,7 @@ Conditions,Conditions,module,Magento_Widget
 "Your wish list has been shared.","Your wish list has been shared.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","We can't delete item from Wish List right now.",module,Magento_Wishlist
 "Can't save description %1","Can't save description %1",module,Magento_Wishlist
-"Can't update wish list","Can't update wish list",module,Magento_Wishlist
+"Can't update wish list","Не вдалося оновити список бажань",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 has been updated in your Wish List.",module,Magento_Wishlist
 "We can't update your Wish List right now.","We can't update your Wish List right now.",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
@@ -12426,15 +12426,15 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Localized Exception.","Localized Exception.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Wishlist
 "Share Wish List","Share Wish List",module,Magento_Wishlist
-"Add All to Cart","Add All to Cart",module,Magento_Wishlist
-"Update Wish List","Update Wish List",module,Magento_Wishlist
+"Add All to Cart","Додати все до кошика",module,Magento_Wishlist
+"Update Wish List","Оновити список бажань",module,Magento_Wishlist
 "Move to Wishlist","Перемістити до списку бажань",module,Magento_Wishlist
 "Add to Wish List","Додати до Списку Бажань",module,Magento_Wishlist
 "View Product","View Product",module,Magento_Wishlist
 Qty,Кіл-ть,module,Magento_Wishlist
 "Add to Cart","Додати в кошик",module,Magento_Wishlist
 Availability,Наявність,module,Magento_Wishlist
-"In stock",Залишок,module,Magento_Wishlist
+"In stock","В наявності",module,Magento_Wishlist
 "Out of stock","Немає у наявності",module,Magento_Wishlist
 Edit,Редагувати,module,Magento_Wishlist
 "Remove Item","Видалити елемент",module,Magento_Wishlist
@@ -12443,7 +12443,7 @@ Edit,Редагувати,module,Magento_Wishlist
 "This Wish List has no Items","This Wish List has no Items",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
-"See Details","See Details",module,Magento_Wishlist
+"See Details","Див. докладніше",module,Magento_Wishlist
 "Options Details","Options Details",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
 "RSS Feed","RSS Feed",module,Magento_Wishlist
@@ -12457,7 +12457,7 @@ Back,Назад,module,Magento_Wishlist
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Видалити Цей Елемент",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
+"You have no items in your wish list.","У Вас немає товарів у списку бажань.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
 "Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
