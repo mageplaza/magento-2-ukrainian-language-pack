@@ -35,10 +35,8 @@ Install the Ukrainian language pack via composer is never easier.
 **Install Ukrainian pack**:
 
 ```
-composer require mageplaza/magento-2-ukrainian-language-pack:dev-master
-php bin/magento cache:clean
+composer require mageplaza/magento-2-ukrainian-language-pack
 php bin/magento setup:static-content:deploy uk_UA
-php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 
@@ -48,8 +46,7 @@ php bin/magento cache:flush
 **Update  Ukrainian pack**:
 
 ```
-composer update mageplaza/magento-2-ukrainian-language-pack:dev-master
-php bin/magento cache:clean
+composer update mageplaza/magento-2-ukrainian-language-pack
 php bin/magento setup:static-content:deploy uk_UA
 php bin/magento indexer:reindex
 php bin/magento cache:clean
