@@ -1,8 +1,6 @@
 ## Magento 2 Ukrainian Language Pack
 
-Maybe **Magento 2 Ukrainian Language Pack** should be the first must-have thing to discover if you have an eCommerce store in Ukraine. Is it really important? The answer is absolutely yes for me. Because when you start a business in a new country, ensure that the different in the language culture is the biggest barrier. The deals is not be successful if the buyer can not understand what you are mentioning on the website. 
-
-Today, I sincerely introduce the Ukrainian Language Package so that you can use the Ukrainian as a native store in Ukraine. You have to download a zip translation file via the link and install it on the store. Then choose the right store locale (Ukrainian (Ukraine)) from the backend. Please get the guides below for the perfect convertion.
+Maybe **Magento 2 Ukrainian Language Pack** should be the first must-have thing to discover if you have an eCommerce store in Ukraine. Is it really important? The answer is absolutely yes for me. Because when you start a business in a new country, ensure that the different in the language culture is the biggest barrier. The deals are not be successful if the buyers cannot understand what you are mentioning on the website. Today, I'm going to introduce the Ukrainian Language Package so that you can use Ukrainian as a native language for stores in Ukraine. You have to download a zip translation file via the link and install it on the store. Then, you should choose the right store locale (Ukrainian (Ukraine)) from the backend. Please get the guides below for the perfect convertion.
 
 Read more [Magento 2 Ukrainian Language Pack](https://www.mageplaza.com/magento-2-ukrainian-language-pack.html)
 
@@ -138,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/uk
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -147,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/uk
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
