@@ -1083,7 +1083,7 @@ Country,Країна,module,Magento_Braintree
 "No authorization transaction to proceed capture.","Немає авторизації транзакції для продовження запису.",module,Magento_Braintree
 "Braintree error response.","Braintree error response.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,Magento_Braintree
-"Wrong transaction status","Wrong transaction status",module,Magento_Braintree
+"Wrong transaction status","Хибний статус транзакції",module,Magento_Braintree
 Authorize,Авторизувати,module,Magento_Braintree
 "Authorize and Capture","Авторизувати та Захопити",module,Magento_Braintree
 "--Please Select--","--Будь-ласка, Оберіть--",module,Magento_Braintree
@@ -8342,6 +8342,7 @@ Action,Дія,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Опис,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
 "Review Details",Детальніше,module,Magento_Review
