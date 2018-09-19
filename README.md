@@ -17,7 +17,7 @@ Read more [Magento 2 Ukrainian Language Pack](https://www.mageplaza.com/magento-
 
 This is status of Ukrainian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/30?title=translated)
+![language pack](http://progressed.io/bar/32?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
