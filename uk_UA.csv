@@ -2509,17 +2509,17 @@
 "Delete Rule","Видалити правило",module,Magento_CatalogRule
 "Are you sure you want to do this?","Ви справді бажаєте це зробити?",module,Magento_CatalogRule
 "Reset","Очистити",module,Magento_CatalogRule
-"Save and Apply","Save and Apply",module,Magento_CatalogRule
+"Save and Apply","Зберегти та Застосувати",module,Magento_CatalogRule
 "Save and Continue Edit","Зберегти та Продовжити Редагування",module,Magento_CatalogRule
 "Save","Зберегти",module,Magento_CatalogRule
 "Catalog Price Rule","Правило цін каталога",module,Magento_CatalogRule
-"Add New Rule","Add New Rule",module,Magento_CatalogRule
-"Apply Rules","Apply Rules",module,Magento_CatalogRule
-"Conditions","Conditions",module,Magento_CatalogRule
+"Add New Rule","Додати нове правило",module,Magento_CatalogRule
+"Apply Rules","Застосувати правила",module,Magento_CatalogRule
+"Conditions","Умови",module,Magento_CatalogRule
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (don't add conditions if rule is applied to all products)",module,Magento_CatalogRule
 "ID","ID",module,Magento_CatalogRule
 "Type","Тип",module,Magento_CatalogRule
-"Attribute Set","Attribute Set",module,Magento_CatalogRule
+"Attribute Set","Набір атрибутів",module,Magento_CatalogRule
 "SKU","Артикул",module,Magento_CatalogRule
 "Product","Продукт",module,Magento_CatalogRule
 "Promotions","Заохочення",module,Magento_CatalogRule
@@ -2536,9 +2536,9 @@
 "You saved the rule.","Ви зберегли правило.",module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.","Під час збереження данних правила відбулася помилка. Будь ласка, перегляньте журнал помилок.",module,Magento_CatalogRule
 "Promo","Promo",module,Magento_CatalogRule
-"The ""%1"" rule was unable to be saved. Please try again.","The ""%1"" rule was unable to be saved. Please try again.",module,Magento_CatalogRule
-"The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","The rule with the ""%1"" ID wasn't found. Verify the ID and try again.",module,Magento_CatalogRule
-"The ""%1"" rule couldn't be removed.","The ""%1"" rule couldn't be removed.",module,Magento_CatalogRule
+"The ""%1"" rule was unable to be saved. Please try again.","Правило ""%1"" не вдалось зберегти. Будь ласка, спробуйте ще раз.",module,Magento_CatalogRule
+"The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","Правило з ID ""%1"" не було знайдено. Перевірте ID та повторіть знову.",module,Magento_CatalogRule
+"The ""%1"" rule couldn't be removed.","Правило ""%1"" неможливо вилучити.",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","Не вдалося перебудувати індекс для порожнього масиву продуктів",module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","Ми не можемо перебудувати індекс для невизначеного продукту.",module,Magento_CatalogRule
 "Catalog rule indexing failed. See details in exception log.","Помилка при індексуванні правила каталогу. Дивіться детальніше в журналі винятків.",module,Magento_CatalogRule
@@ -2551,7 +2551,7 @@
 "To Percentage","To Percentage",module,Magento_CatalogRule
 "By Fixed value","By Fixed value",module,Magento_CatalogRule
 "By Percentage","By Percentage",module,Magento_CatalogRule
-"Update product's %1 %2: %3","Update product's %1 %2: %3",module,Magento_CatalogRule
+"Update product's %1 %2: %3","Оновлення товарів %1 %2: %3",module,Magento_CatalogRule
 "Apply as percentage of original","Застосувати як відсоток від оригіналу",module,Magento_CatalogRule
 "Apply as fixed amount","Застосувати як фіксовану суму",module,Magento_CatalogRule
 "Adjust final price to this percentage","Привести остаточну ціну до цього відсотку",module,Magento_CatalogRule
@@ -2823,8 +2823,8 @@
 "Something went wrong while processing your order. Please try again later.","Щось пішло не так під час обробки вашого замовлення. Будь ласка, спробуйте ще раз пізніше.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 не розширює \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Payment Method",module,Magento_Checkout
-"Payment Page","Payment Page",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"Payment Page","Сторінка Оплати",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Товар не був знайдений. Перевірте товар та повторіть спробу.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Checkout
 "The product does not exist.","Продукт не існує.",module,Magento_Checkout
 "We don't have some of the products you want.","На жаль цих продуктів немає в наявності.",module,Magento_Checkout
@@ -2836,8 +2836,8 @@
 "Display item quantities","Відображати кількість елементу",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Checkout
 "A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Відсутня адреса доставки. Введіть адресу та повторіть спробу.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Інформацію про доставку не вдалось зберегти. Перевірте правильність введених даних і повторіть спробу.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2",module,Magento_Checkout
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
 "item","позиція",module,Magento_Checkout
@@ -2921,13 +2921,13 @@
 "Place Order","Розмістити замовлення",module,Magento_Checkout
 "Forgot an Item?","Забули товар?",module,Magento_Checkout
 "Edit Your Cart","Редагувати кошик",module,Magento_Checkout
-"Ship Here","Ship Here",module,Magento_Checkout
+"Ship Here","Доставити сюди",module,Magento_Checkout
 "Ship To:","Адреса доставки:",module,Magento_Checkout
 "edit","редагувати",module,Magento_Checkout
 "Order Summary","Всього",module,Magento_Checkout
 "View and Edit Cart","Переглянути та редагувати кошик",module,Magento_Checkout
 "View Details","Детальніше",module,Magento_Checkout
-"Field","Field",module,Magento_Checkout
+"Field","Поле",module,Magento_Checkout
 "is required.","is required.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Поштовий індекс недійсний.",module,Magento_Checkout
 "Example:","Наприклад:",module,Magento_Checkout
@@ -4162,7 +4162,7 @@
 "Delete Customer","Видалити покупця",module,Magento_Customer
 "Reset Password","Скинути пароль",module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?","Are you sure you want to revoke the customer's tokens?",module,Magento_Customer
-"Force Sign-In","Force Sign-In",module,Magento_Customer
+"Force Sign-In","Примусовий вхід",module,Magento_Customer
 "New Customer","Новий покупець",module,Magento_Customer
 "Save and Continue Edit","Зберегти та Продовжити Редагування",module,Magento_Customer
 "Back","Назад",module,Magento_Customer
@@ -5388,7 +5388,7 @@
 "Product Name","Назва товару",module,Magento_Downloadable
 "Qty","Кіл-ть",module,Magento_Downloadable
 "Subtotal","Проміжні підсумки",module,Magento_Downloadable
-"Discount Amount","Discount Amount",module,Magento_Downloadable
+"Discount Amount","Сума знижки",module,Magento_Downloadable
 "Row Total","Row Total",module,Magento_Downloadable
 "Qty Invoiced","К-ть виставлених рахунків",module,Magento_Downloadable
 "Ordered","Ordered",module,Magento_Downloadable
@@ -7511,7 +7511,7 @@
 "This quote is currently locked for editing. It will become available once released by the Merchant.","This quote is currently locked for editing. It will become available once released by the Merchant.",module,Magento_NegotiableQuote
 "Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.",module,Magento_NegotiableQuote
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","You are not an owner of this quote. You cannot edit it or take any actions on it.",module,Magento_NegotiableQuote
-"Discount","Discount",module,Magento_NegotiableQuote
+"Discount","Знижка",module,Magento_NegotiableQuote
 "Estimated Tax","Estimated Tax",module,Magento_NegotiableQuote
 "Quote Subtotal (Excl. Tax)","Quote Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
 "Quote Grand Total (Incl. Tax)","Quote Grand Total (Incl. Tax)",module,Magento_NegotiableQuote
@@ -7810,8 +7810,8 @@
 "The Quote expires after","The Quote expires after",module,Magento_NegotiableQuote
 "Item in Quote","Item in Quote",module,Magento_NegotiableQuote
 "Items in Quote","Items in Quote",module,Magento_NegotiableQuote
-"Apply Discount Code","Apply Discount Code",module,Magento_NegotiableQuote
-"Enter discount code","Enter discount code",module,Magento_NegotiableQuote
+"Apply Discount Code","Застосувати код знижки",module,Magento_NegotiableQuote
+"Enter discount code","Введіть код знижки",module,Magento_NegotiableQuote
 "Apply Discount","Apply Discount",module,Magento_NegotiableQuote
 "Cancel coupon","Скасувати купон",module,Magento_NegotiableQuote
 "Apply Gift Card","Apply Gift Card",module,Magento_NegotiableQuote
@@ -10422,7 +10422,7 @@
 "New Order RSS","New Order RSS",module,Magento_Sales
 "Subtotal","Проміжні підсумки",module,Magento_Sales
 "Shipping & Handling","Доставка та оброблення",module,Magento_Sales
-"Discount (%1)","Discount (%1)",module,Magento_Sales
+"Discount (%1)","Знижка (%1)",module,Magento_Sales
 "Discount","Знижка",module,Magento_Sales
 "Grand Total","Загальний підсумок",module,Magento_Sales
 "Back","Назад",module,Magento_Sales
@@ -10807,7 +10807,7 @@
 "Return to Stock","Return to Stock",module,Magento_Sales
 "Qty to Refund","Qty to Refund",module,Magento_Sales
 "Tax Amount","Tax Amount",module,Magento_Sales
-"Discount Amount","Discount Amount",module,Magento_Sales
+"Discount Amount","Сума знижки",module,Magento_Sales
 "Row Total","Row Total",module,Magento_Sales
 "No Items To Refund","No Items To Refund",module,Magento_Sales
 "Credit Memo Comments","Credit Memo Comments",module,Magento_Sales
@@ -11178,7 +11178,7 @@
 "End","Закінчення",module,Magento_SalesRule
 "Status","Статус",module,Magento_SalesRule
 "%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
-"Coupons/Discounts","Coupons/Discounts",module,Magento_SalesRule
+"Coupons/Discounts","Купони/Знижки",module,Magento_SalesRule
 "Promotions","Заохочення",module,Magento_SalesRule
 "You deleted the rule.","You deleted the rule.",module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.","We can't delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
@@ -11203,7 +11203,7 @@
 "Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
 "Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
-"Discount (%1)","Discount (%1)",module,Magento_SalesRule
+"Discount (%1)","Знижка (%1)",module,Magento_SalesRule
 "Discount","Знижка",module,Magento_SalesRule
 "Coupon with the same code","Coupon with the same code",module,Magento_SalesRule
 "No Coupon","No Coupon",module,Magento_SalesRule
@@ -11250,8 +11250,8 @@
 "is not one of","is not one of",module,Magento_SalesRule
 "If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:",module,Magento_SalesRule
 "Percent of product price discount","Percent of product price discount",module,Magento_SalesRule
-"Fixed amount discount","Fixed amount discount",module,Magento_SalesRule
-"Fixed amount discount for whole cart","Fixed amount discount for whole cart",module,Magento_SalesRule
+"Fixed amount discount","Фіксована сума знижки",module,Magento_SalesRule
+"Fixed amount discount for whole cart","Фіксована сума знижки для всього кошика",module,Magento_SalesRule
 "Buy X get Y free (discount amount is Y)","Buy X get Y free (discount amount is Y)",module,Magento_SalesRule
 "Active","Active",module,Magento_SalesRule
 "Inactive","Inactive",module,Magento_SalesRule
@@ -11260,9 +11260,9 @@
 "Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
-"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
+"Apply Discount Code","Застосувати код знижки",module,Magento_SalesRule
+"Enter discount code","Введіть код знижки",module,Magento_SalesRule
+"Apply Discount","Застосувати знижку",module,Magento_SalesRule
 "Cancel coupon","Скасувати купон",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
@@ -11288,7 +11288,7 @@
 "To","До",module,Magento_SalesRule
 "Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
 "Apply","Застосувати",module,Magento_SalesRule
-"Discount Amount","Discount Amount",module,Magento_SalesRule
+"Discount Amount","Сума знижки",module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRule
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
 "Discount amount is applied to subtotal only","Discount amount is applied to subtotal only",module,Magento_SalesRule
@@ -11322,7 +11322,7 @@
 "Conditions","Conditions",module,Magento_SalesRuleStaging
 "Actions","Actions",module,Magento_SalesRuleStaging
 "Apply","Apply",module,Magento_SalesRuleStaging
-"Discount Amount","Discount Amount",module,Magento_SalesRuleStaging
+"Discount Amount","Сума знижки",module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRuleStaging
@@ -12738,8 +12738,8 @@
 "Unit Price","Unit Price",module,Magento_Tax
 "Row Total","Row Total",module,Magento_Tax
 "Total","Загалом",module,Magento_Tax
-"Before Discount","Before Discount",module,Magento_Tax
-"After Discount","After Discount",module,Magento_Tax
+"Before Discount","Перед знижкою",module,Magento_Tax
+"After Discount","Після знижки",module,Magento_Tax
 "Excluding Tax","Excluding Tax",module,Magento_Tax
 "Including Tax","Including Tax",module,Magento_Tax
 "None","Жоден",module,Magento_Tax
@@ -12787,7 +12787,7 @@
 "Shipping Prices","Shipping Prices",module,Magento_Tax
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
 "Apply Customer Tax","Apply Customer Tax",module,Magento_Tax
-"Apply Discount On Prices","Apply Discount On Prices",module,Magento_Tax
+"Apply Discount On Prices","Застосувати знижку до цін",module,Magento_Tax
 "Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
 "Apply Tax On","Apply Tax On",module,Magento_Tax
 "Enable Cross Border Trade","Enable Cross Border Trade",module,Magento_Tax
