@@ -12,8 +12,10 @@ Read more [Magento 2 Ukrainian Language Pack](https://www.mageplaza.com/magento-
 3. [How to active Ukrainian language pack](#active)
 4. [How to contribute](#contribute)
 5. [Supported Magento versions](#support)
+6. [Notes](#important-notes})
+7. [Language package authors](#authors)
 
-## 1. Language Package Process{#process}
+## 1. Language Package Process {#process}
 
 This is status of Ukrainian Language Pack, you can see how many percentage of this project has been done.
 
@@ -26,7 +28,7 @@ It is not fully translated? Feel free to contribute:
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
 
-## 2. How to Install Ukrainian Language Pack{#install}
+## 2. How to Install Ukrainian Language Pack {#install}
 
 There are 3 different methods to install this language pack.
 
@@ -58,7 +60,7 @@ php bin/magento cache:flush
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
-Or use this keys:
+Or use these keys:
 
 ```
 Public Key: c7af1bfc9352e9c986637eec85ed53af
@@ -115,13 +117,13 @@ Unzip the compressed file and upload file `uk_UA.zip` into `app/i18n/mageplaza/u
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-## 3. How to active Ukrainian language pack{#active}
+## 3. How to active Ukrainian language pack {#active}
 
 Now time to active the Ukrainian language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Ukrainian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-## 4. How to contribute{#contribute}
+## 4. How to contribute {#contribute}
 
 Contribute to this language at :
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -139,19 +141,19 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 
 
 
-## 6. Notes{#important-notes}
+## 6. Notes {#important-notes}
 
 - This project automatically updates weekly from Crowdin.
 - Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-ukrainian-language-pack/issues/new)
 
-## 7. Language package authors{#authors}
+## 7. Language package authors {#authors}
 
 - [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
 - Magento Community
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
-## 8. References:
+## 8. References {#references}
 
 - https://www.mageplaza.com/magento-2-ukrainian-language-pack.html
 - https://crowdin.com/project/magento-2
