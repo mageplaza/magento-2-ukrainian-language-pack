@@ -89,8 +89,11 @@ Unzip the Ukrainian language pack to Magento 2 root folder. In this guide, we ex
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/uk_ua
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-ukrainian-language-pack` to `uk_ua`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Ukrainian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `uk_UA.zip` into `app/i18n/mageplaza/uk_UA/uk_UA.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/uk_ua/uk_UA.csv`
+
+See this screenshot
+
+![Ukrainian pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
