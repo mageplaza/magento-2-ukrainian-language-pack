@@ -1484,8 +1484,8 @@ Status,Статус,module,Magento_Bundle
 Thumbnail,Мініатюра,module,Magento_Bundle
 Type,Тип,module,Magento_Bundle
 "Special Price","Спеціальна ціна",module,Magento_Bundle
-"""option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
-"""sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
+"""option_id"" and ""parent_id"" values should be specified","значення ""option_id"" і ""parent_id"" повинні бути вказані",module,Magento_BundleGraphQl
+"""sku"" value should be specified","потрібно вказати ""sku""",module,Magento_BundleGraphQl
 "Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
 Cancel,Скасувати,module,Magento_BundleStaging
 "Add Selected Products","Додати вибрані товари",module,Magento_BundleStaging
