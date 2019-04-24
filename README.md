@@ -117,11 +117,13 @@ To download and install Ukrainian pack manually, you have to access to your serv
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/uk_ua/uk_UA.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/uk_ua/`
 
-See this screenshot
+See this screenshot:
 
 ![Ukrainian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **uk_ua**
 
 #### Step 2: Flush cache
 
