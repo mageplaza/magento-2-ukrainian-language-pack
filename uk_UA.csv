@@ -17,9 +17,9 @@
 "You need more permissions to save this setting.","Вам потрібно більше дозволів щоб зберегти це налаштування.",module,Magento_AdminGws
 "Role Scopes","Межі застосування ролі",module,Magento_AdminGws
 "Custom","Користувацький",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Ви не маєте дозволу зберегти цей елемент у поточні крамниці. Будь ласка, переключіться на дозволену крамницю",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Додаткові дозволи необхідні для видалення елемента ""%1"".",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Цей об'єкт має бути закріплений за крамницею. Перевірте це та повторіть спробу.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
 "This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
 "More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
@@ -2715,13 +2715,13 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Edit Event...","Редагувати подію...",module,Magento_CatalogEvent
 "Add Event...","Додати подію...",module,Magento_CatalogEvent
 "Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_CatalogGraphQl
-"Missing key %1 in product data","Missing key %1 in product data",module,Magento_CatalogGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogGraphQl
-"""path"" value should be specified","""path"" value should be specified",module,Magento_CatalogGraphQl
-"currentPage value %1 specified is greater than the number of pages available.","currentPage value %1 specified is greater than the number of pages available.",module,Magento_CatalogGraphQl
-"""id for category should be specified","""id for category should be specified",module,Magento_CatalogGraphQl
+"Missing key %1 in product data","Відсутній ключ %1 в данних продукту",module,Magento_CatalogGraphQl
+"""model"" value should be specified","Значення ""model"" повиненне бути вказане",module,Magento_CatalogGraphQl
+"""path"" value should be specified","Значення ""path"" повиненне бути вказане",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the number of pages available.","значення поточної сторінки %1, перевищує кількість сторінок.",module,Magento_CatalogGraphQl
+"""id for category should be specified","Ідентифікатор для категорії повинен бути вказаний",module,Magento_CatalogGraphQl
 "No child sku found for product link.","No child sku found for product link.",module,Magento_CatalogGraphQl
-"'search' or 'filter' input argument is required.","'search' or 'filter' input argument is required.",module,Magento_CatalogGraphQl
+"'search' or 'filter' input argument is required.","Вкажіть ""path"" або ""filter"".",module,Magento_CatalogGraphQl
 "SimpleProduct type not defined in schema.","SimpleProduct type not defined in schema.",module,Magento_CatalogGraphQl
 "'category_id' only supports 'eq' condition type.","'category_id' only supports 'eq' condition type.",module,Magento_CatalogGraphQl
 "Cannot resolve layered filter type","Cannot resolve layered filter type",module,Magento_CatalogGraphQl
@@ -2842,7 +2842,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_CatalogInventory
 "The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
 "Quantity increments can't use decimals. Enter a new increment and try again.","Quantity increments can't use decimals. Enter a new increment and try again.",module,Magento_CatalogInventory
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogInventoryGraphQl
+"""model"" value should be specified","Значення ""model"" повиненне бути вказане",module,Magento_CatalogInventoryGraphQl
 "New Permission","Новий дозвіл",module,Magento_CatalogPermissions
 "You already have a permission with this scope.","Ви вже маєте ці права.",module,Magento_CatalogPermissions
 "(Allow)","(Дозволити)",module,Magento_CatalogPermissions
@@ -3664,9 +3664,9 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "TinyMCE 4","TinyMCE 4",module,Magento_Cms
 "Default Page Layout","Default Page Layout",module,Magento_Cms
 "WYSIWYG Editor","WYSIWYG Редактор",module,Magento_Cms
-"""identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified",module,Magento_CmsGraphQl
-"""Page id should be specified","""Page id should be specified",module,Magento_CmsGraphQl
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_CmsGraphQl
+"""identifiers"" of CMS blocks should be specified","Вкажіть « identifiers» для CMS блоків",module,Magento_CmsGraphQl
+"""Page id should be specified","Потрібно вказати ідентифікатор сторінки",module,Magento_CmsGraphQl
+"The CMS block with the ""%1"" ID doesn't exist.","CMS блок з ідентифікатором ""%1"" не існує.",module,Magento_CmsGraphQl
 "This block no longer exists.","Цього блоку більше не існує.",module,Magento_CmsStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CmsStaging
 "Error","Помилка",module,Magento_CmsStaging
@@ -4241,20 +4241,20 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "You will be charged for","You will be charged for",module,Magento_CompanyCredit
 "Order Total","Вартість замовлення",module,Magento_CompanyCredit
 "%fieldName is a required field.","%fieldName є обов'язковим.",module,Magento_CompanyCredit
-"All Payment Methods","All Payment Methods",module,Magento_CompanyPayment
-"Specific Payment Methods","Specific Payment Methods",module,Magento_CompanyPayment
-"B2B Payment Methods","B2B Payment Methods",module,Magento_CompanyPayment
-"All Enabled Payment Methods","All Enabled Payment Methods",module,Magento_CompanyPayment
-" (disabled)"," (disabled)",module,Magento_CompanyPayment
+"All Payment Methods","Усі способи оплати",module,Magento_CompanyPayment
+"Specific Payment Methods","Конкретні платіжні методи",module,Magento_CompanyPayment
+"B2B Payment Methods","B2B способи оплати",module,Magento_CompanyPayment
+"All Enabled Payment Methods","Усі ввімкненні способи оплати",module,Magento_CompanyPayment
+" (disabled)"," (вимкнено)",module,Magento_CompanyPayment
 "Payment Information","Відомості про оплату",module,Magento_CompanyPayment
-"Available Payment Methods","Available Payment Methods",module,Magento_CompanyPayment
-"This company has no payment methods. Please contact store administrator.","This company has no payment methods. Please contact store administrator.",module,Magento_CompanyPayment
-"Default B2B Payment Methods","Default B2B Payment Methods",module,Magento_CompanyPayment
-"Applicable Payment Methods","Applicable Payment Methods",module,Magento_CompanyPayment
-"Payment Methods","Payment Methods",module,Magento_CompanyPayment
-"By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.",module,Magento_CompanyPayment
-"Payment Information (View)","Payment Information (View)",module,Magento_CompanyPayment
-"Use config settings","Use config settings",module,Magento_CompanyPayment
+"Available Payment Methods","Доступні методи оплати",module,Magento_CompanyPayment
+"This company has no payment methods. Please contact store administrator.","Ця компанія має не способів оплати. Будь ласка, зв'яжіться з адміністратором магазину.",module,Magento_CompanyPayment
+"Default B2B Payment Methods","B2B  метод оплати за замовчуванням",module,Magento_CompanyPayment
+"Applicable Payment Methods","Застосовні методи оплати",module,Magento_CompanyPayment
+"Payment Methods","Методи оплати",module,Magento_CompanyPayment
+"By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","За замовчуванням вибрані способи оплати доступні для всіх нових компаній. Якщо ваш сайт Magento має декілька веб-сайтів, на конкретному веб-сайті покупець зможе оплатити способи, доступні лише для цього веб-сайту.",module,Magento_CompanyPayment
+"Payment Information (View)","Відомості про оплату (Крамниця)",module,Magento_CompanyPayment
+"Use config settings","Використовувати налаштування конфігурації",module,Magento_CompanyPayment
 "Default Config","Default Config",module,Magento_Config
 "Save Config","Зберегти конфігурацію",module,Magento_Config
 "[GLOBAL]","[GLOBAL]",module,Magento_Config
@@ -5577,27 +5577,27 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Data was imported by %1","Data was imported by %1",module,Magento_CustomerFinance
 "Store Credit","Store Credit",module,Magento_CustomerFinance
 "Reward Points","Reward Points",module,Magento_CustomerFinance
-"Current customer does not have access to the resource ""%1""","Current customer does not have access to the resource ""%1""",module,Magento_CustomerGraphQl
-"Customer id %1 does not exist.","Customer id %1 does not exist.",module,Magento_CustomerGraphQl
-"Required parameters are missing: %1","Required parameters are missing: %1",module,Magento_CustomerGraphQl
-"Customer Address %1 is set as default billing address and can not be deleted","Customer Address %1 is set as default billing address and can not be deleted",module,Magento_CustomerGraphQl
-"Customer Address %1 is set as default shipping address and can not be deleted","Customer Address %1 is set as default shipping address and can not be deleted",module,Magento_CustomerGraphQl
-"Could not find a address with ID ""%address_id""","Could not find a address with ID ""%address_id""",module,Magento_CustomerGraphQl
-"Current customer does not have permission to address with ID ""%address_id""","Current customer does not have permission to address with ID ""%address_id""",module,Magento_CustomerGraphQl
-"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_CustomerGraphQl
-"Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
-"The account is locked.","The account is locked.",module,Magento_CustomerGraphQl
-"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CustomerGraphQl
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_CustomerGraphQl
-"Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email"".",module,Magento_CustomerGraphQl
-"Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
-"Specify the ""newPassword"" value.","Specify the ""newPassword"" value.",module,Magento_CustomerGraphQl
-"""input"" value should be specified","""input"" value should be specified",module,Magento_CustomerGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CustomerGraphQl
-"Address ""id"" value should be specified","Address ""id"" value should be specified",module,Magento_CustomerGraphQl
-"Specify the ""email"" value.","Specify the ""email"" value.",module,Magento_CustomerGraphQl
-"Specify the ""password"" value.","Specify the ""password"" value.",module,Magento_CustomerGraphQl
-"""Email should be specified","""Email should be specified",module,Magento_CustomerGraphQl
+"Current customer does not have access to the resource ""%1""","Поточний клієнт не має доступу до ресурсу ""%1""",module,Magento_CustomerGraphQl
+"Customer id %1 does not exist.","Клієнта з ідентифікатором %1 не існує.",module,Magento_CustomerGraphQl
+"Required parameters are missing: %1","Відсутні обов'язкові параметри: %1",module,Magento_CustomerGraphQl
+"Customer Address %1 is set as default billing address and can not be deleted","Адреса клієнта %1 встановленна як стандартна адреса виставлення рахунків і не може бути видалена",module,Magento_CustomerGraphQl
+"Customer Address %1 is set as default shipping address and can not be deleted","Адреса клієнта %1 встановленна як стандартна адреса доставки і не може бути видалена",module,Magento_CustomerGraphQl
+"Could not find a address with ID ""%address_id""","Не вдалося знайти адресу з ідентифікатором ""%address_id""",module,Magento_CustomerGraphQl
+"Current customer does not have permission to address with ID ""%address_id""","Адреса з ідентифікатором ""%address_id"" не належить поточному клієнту",module,Magento_CustomerGraphQl
+"The current customer isn't authorized.","Поточний клієнт не авторизований.",module,Magento_CustomerGraphQl
+"Customer with id ""%customer_id"" does not exist.","Клієнта з ідентифікатором ""%customer_id"" не існує.",module,Magento_CustomerGraphQl
+"The account is locked.","Ваш обліковий запис заблоковано.",module,Magento_CustomerGraphQl
+"This account isn't confirmed. Verify and try again.","Цей обліковий запис не підтверджено. Перевірте данні та повторіть спробу.",module,Magento_CustomerGraphQl
+"A customer with the same email address already exists in an associated website.","Клієнт з тією ж адресою електронної пошти вже існує у відповідному веб-сайті.",module,Magento_CustomerGraphQl
+"Provide the current ""password"" to change ""email"".","Вкажіть пароль для зміни електронної адреси.",module,Magento_CustomerGraphQl
+"Specify the ""currentPassword"" value.","Вкажіть теперішній пароль.",module,Magento_CustomerGraphQl
+"Specify the ""newPassword"" value.","Вкажіть новий пароль.",module,Magento_CustomerGraphQl
+"""input"" value should be specified","Значення ""input"" повиненне бути вказане",module,Magento_CustomerGraphQl
+"""model"" value should be specified","Значення ""model"" повиненне бути вказане",module,Magento_CustomerGraphQl
+"Address ""id"" value should be specified","Потрібно вказати ідентифікатор адреси",module,Magento_CustomerGraphQl
+"Specify the ""email"" value.","Вкажіть електронну адресу.",module,Magento_CustomerGraphQl
+"Specify the ""password"" value.","Вкажіть пароль.",module,Magento_CustomerGraphQl
+"""Email should be specified","Алектронна адреса мусить бути вказана",module,Magento_CustomerGraphQl
 "Please specify a website.","Please specify a website.",module,Magento_CustomerImportExport
 "Please specify an email.","Please specify an email.",module,Magento_CustomerImportExport
 "We found an invalid value in a website column.","We found an invalid value in a website column.",module,Magento_CustomerImportExport
@@ -6170,8 +6170,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "No downloadable sample with the provided ID was found. Verify the ID and try again.","No downloadable sample with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
 "The downloadable sample isn't related to the product. Verify the link and try again.","The downloadable sample isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
 "The sample with ""%1"" ID can't be deleted.","The sample with ""%1"" ID can't be deleted.",module,Magento_Downloadable
-"""model"" value should be specified","""model"" value should be specified",module,Magento_DownloadableGraphQl
-"Unlimited","Unlimited",module,Magento_DownloadableGraphQl
+"""model"" value should be specified","Значення ""model"" повиненне бути вказане",module,Magento_DownloadableGraphQl
+"Unlimited","Необмежено",module,Magento_DownloadableGraphQl
 "File directory '%1' is not readable.","Папка файлу '%1' не доступна для читання.",module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","Папка файлу '%1' не доступна для запису.",module,Magento_DownloadableImportExport
 "Error","Помилка",module,Magento_DownloadableImportExport
@@ -6375,13 +6375,13 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The attribute group ID is incorrect. Verify the ID and try again.","The attribute group ID is incorrect. Verify the ID and try again.",module,Magento_Eav
 "These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
 "Text Editor","Text Editor",module,Magento_Eav
-"""Entity type should be specified","""Entity type should be specified",module,Magento_EavGraphQl
-"""Attribute code should be specified","""Attribute code should be specified",module,Magento_EavGraphQl
+"""Entity type should be specified","""Тип сутності повинен бути вказаний",module,Magento_EavGraphQl
+"""Attribute code should be specified","""Код атрибута повинен бути вказаний",module,Magento_EavGraphQl
 "Attribute code %1 of entity type %2 not configured to have a type.","Attribute code %1 of entity type %2 not configured to have a type.",module,Magento_EavGraphQl
-"Invalid entity_type specified: %1","Invalid entity_type specified: %1",module,Magento_EavGraphQl
-"Missing %1 for the input %2.","Missing %1 for the input %2.",module,Magento_EavGraphQl
+"Invalid entity_type specified: %1","Вказано невірний entity_type: %1",module,Magento_EavGraphQl
+"Missing %1 for the input %2.","Відсутній %1 для вводу %2.",module,Magento_EavGraphQl
 "Type %1 has no internal representation declared.","Type %1 has no internal representation declared.",module,Magento_EavGraphQl
-"Cannot resolve EAV type","Cannot resolve EAV type",module,Magento_EavGraphQl
+"Cannot resolve EAV type","Не вдалося визначити тип EAV",module,Magento_EavGraphQl
 "The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch
 "There is no such data mapper ""%1"" for interface %2","There is no such data mapper ""%1"" for interface %2",module,Magento_Elasticsearch
 "Data mapper ""%1"" must implement interface %2","Data mapper ""%1"" must implement interface %2",module,Magento_Elasticsearch
@@ -10250,47 +10250,47 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "The shipping method can't be set. %1","The shipping method can't be set. %1",module,Magento_Quote
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Quote
 "Current customer does not have an active cart.","Current customer does not have an active cart.",module,Magento_Quote
-"Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_QuoteGraphQl
-"Could not add the product with SKU %sku to the shopping cart: %message","Could not add the product with SKU %sku to the shopping cart: %message",module,Magento_QuoteGraphQl
-"Missing key ""sku"" in cart item data","Missing key ""sku"" in cart item data",module,Magento_QuoteGraphQl
-"Missing key ""qty"" in cart item data","Missing key ""qty"" in cart item data",module,Magento_QuoteGraphQl
-"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"Current user does not have an active cart.","Current user does not have an active cart.",module,Magento_QuoteGraphQl
-"The current user cannot perform operations on cart ""%masked_cart_id""","The current user cannot perform operations on cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"Could not find a cart address with ID ""%cart_address_id""","Could not find a cart address with ID ""%cart_address_id""",module,Magento_QuoteGraphQl
-"The current user cannot use cart address with ID ""%cart_address_id""","The current user cannot use cart address with ID ""%cart_address_id""",module,Magento_QuoteGraphQl
-"The billing address must contain either ""customer_address_id"" or ""address"".","The billing address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
-"The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.","The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
-"Using the ""use_for_shipping"" option with multishipping is not possible.","Using the ""use_for_shipping"" option with multishipping is not possible.",module,Magento_QuoteGraphQl
-"You cannot specify multiple shipping addresses.","You cannot specify multiple shipping addresses.",module,Magento_QuoteGraphQl
-"The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
-"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
-"You cannot specify multiple shipping methods.","You cannot specify multiple shipping methods.",module,Magento_QuoteGraphQl
-"Required parameter ""cart_address_id"" is missing.","Required parameter ""cart_address_id"" is missing.",module,Magento_QuoteGraphQl
-"Required parameter ""carrier_code"" is missing.","Required parameter ""carrier_code"" is missing.",module,Magento_QuoteGraphQl
-"Required parameter ""method_code"" is missing.","Required parameter ""method_code"" is missing.",module,Magento_QuoteGraphQl
-"Option type ""%1"" is not supported","Option type ""%1"" is not supported",module,Magento_QuoteGraphQl
-"%1 doesn't implement CustomizableOptionValueInterface","%1 doesn't implement CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
-"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""cartItems"" is missing","Required parameter ""cartItems"" is missing",module,Magento_QuoteGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_QuoteGraphQl
-"Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
-"A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
-"Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""type_id"" in product data","Missing key ""type_id"" in product data",module,Magento_QuoteGraphQl
-"Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_QuoteGraphQl
-"Required parameter ""cart_id"" is missing.","Required parameter ""cart_id"" is missing.",module,Magento_QuoteGraphQl
-"Required parameter ""cart_item_id"" is missing.","Required parameter ""cart_item_id"" is missing.",module,Magento_QuoteGraphQl
-"Required parameter ""billing_address"" is missing","Required parameter ""billing_address"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""payment_method"" is missing","Required parameter ""payment_method"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_addresses"" is missing","Required parameter ""shipping_addresses"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_methods"" is missing","Required parameter ""shipping_methods"" is missing",module,Magento_QuoteGraphQl
-"""model"" values should be specified","""model"" values should be specified",module,Magento_QuoteGraphQl
-"Required parameter ""cart_items"" is missing.","Required parameter ""cart_items"" is missing.",module,Magento_QuoteGraphQl
-"Required parameter ""cart_item_id"" for ""cart_items"" is missing.","Required parameter ""cart_item_id"" for ""cart_items"" is missing.",module,Magento_QuoteGraphQl
-"Required parameter ""quantity"" for ""cart_items"" is missing.","Required parameter ""quantity"" for ""cart_items"" is missing.",module,Magento_QuoteGraphQl
-"Could not find cart item with id: %1.","Could not find cart item with id: %1.",module,Magento_QuoteGraphQl
+"Shopping cart error: %message","Помилка кошика: %message",module,Magento_QuoteGraphQl
+"Could not find a product with SKU ""%sku""","Не вдалося знайти продукт з кодом товару ""%sku""",module,Magento_QuoteGraphQl
+"Could not add the product with SKU %sku to the shopping cart: %message","Не вдалося додати продукт з кодом товару ""%sku"" до кошика: %message",module,Magento_QuoteGraphQl
+"Missing key ""sku"" in cart item data","Відсутній ключ ""sku"" у даних одиниці кошика",module,Magento_QuoteGraphQl
+"Missing key ""qty"" in cart item data","Відсутній ключ ""qty"" у даних одиниці кошика",module,Magento_QuoteGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","Не вдалося знайти кошик з ідентифікатором ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"Current user does not have an active cart.","Поточний користувач не має активного кошику.",module,Magento_QuoteGraphQl
+"The current user cannot perform operations on cart ""%masked_cart_id""","Поточний користувач не може виконувати операції з кошиком ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"Could not find a cart address with ID ""%cart_address_id""","Не вдалося знайти адресу з ідентифікатором ""%cart_address_id""",module,Magento_QuoteGraphQl
+"The current user cannot use cart address with ID ""%cart_address_id""","Поточний користувач не може використовувати купівельну адресу з ідентифікатором ""%cart_address_id""",module,Magento_QuoteGraphQl
+"The billing address must contain either ""customer_address_id"" or ""address"".","Серед данних платіжної адреси має бути ""customer_address_id"" або ""address"".",module,Magento_QuoteGraphQl
+"The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.","Данні платіжної адреси не можуть містити ""customer_address_id"" і ""address"" одночасно.",module,Magento_QuoteGraphQl
+"Using the ""use_for_shipping"" option with multishipping is not possible.","Використання параметра ""use_for_shipping"" не можливо для доставки на замовлення на кілька адресс (мультишипінг).",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping addresses.","Не можна вказати кілька адрес доставки.",module,Magento_QuoteGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""address"".","Серед данних адреси доставки має бути ""customer_address_id"" або ""address"".",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","Данні адреси доставки не можуть містити ""customer_address_id"" і ""address"" одночасно.",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping methods.","Не можна вказати кілька адрес доставки.",module,Magento_QuoteGraphQl
+"Required parameter ""cart_address_id"" is missing.","Відсутній обов'язковий параметр ""cart_address_id"".",module,Magento_QuoteGraphQl
+"Required parameter ""carrier_code"" is missing.","Відсутній обов'язковий параметр ""carrier_code"".",module,Magento_QuoteGraphQl
+"Required parameter ""method_code"" is missing.","Відсутній обов'язковий параметр ""method_code"".",module,Magento_QuoteGraphQl
+"Option type ""%1"" is not supported","Опція типу ""%1"" не підтримується",module,Magento_QuoteGraphQl
+"%1 doesn't implement CustomizableOptionValueInterface","%1 мусить імплементувати CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing","Відсутній обов'язковий параметр ""cart_id""",module,Magento_QuoteGraphQl
+"Required parameter ""cartItems"" is missing","Відсутній обов'язковий параметр ""cartItems""",module,Magento_QuoteGraphQl
+"""model"" value should be specified","Значення ""model"" повиненне бути вказане",module,Magento_QuoteGraphQl
+"Required parameter ""coupon_code"" is missing","Відсутній обов'язковий параметр ""coupon_code""",module,Magento_QuoteGraphQl
+"A coupon is already applied to the cart. Please remove it to apply another","До кошика вже застовоно купон. Будь ласка, видаліть його, щоб застосувати інший",module,Magento_QuoteGraphQl
+"Missing key ""product"" in cart data","Бракує ключа """"product"" в даних кошика",module,Magento_QuoteGraphQl
+"Missing key ""type_id"" in product data","Відсутній ключ ""type_id"" в данних продукту",module,Magento_QuoteGraphQl
+"Product ""%product_type"" type is not supported","Тип продукту ""%product_type"" не підтримується",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing.","Відсутній обов'язковий параметр ""cart_id"".",module,Magento_QuoteGraphQl
+"Required parameter ""cart_item_id"" is missing.","Відсутній обов'язковий параметр ""cart_item_id"".",module,Magento_QuoteGraphQl
+"Required parameter ""billing_address"" is missing","Відсутній обов'язковий параметр ""billing_address""",module,Magento_QuoteGraphQl
+"Required parameter ""payment_method"" is missing","Відсутній обов'язковий параметр ""payment_method""",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_addresses"" is missing","Відсутній обов'язковий параметр ""shipping_addresses""",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_methods"" is missing","Відсутній обов'язковий параметр ""shipping_methods""",module,Magento_QuoteGraphQl
+"""model"" values should be specified","Значення ""model"" повиненне бути вказане",module,Magento_QuoteGraphQl
+"Required parameter ""cart_items"" is missing.","Відсутній обов'язковий параметр ""cart_items"".",module,Magento_QuoteGraphQl
+"Required parameter ""cart_item_id"" for ""cart_items"" is missing.","Відсутній обов'язковий параметр ""cart_item_id"" для ""cart_items"".",module,Magento_QuoteGraphQl
+"Required parameter ""quantity"" for ""cart_items"" is missing.","Відсутній обов'язковий параметр ""quantity"" для ""cart_items"".",module,Magento_QuoteGraphQl
+"Could not find cart item with id: %1.","Не вдалося знайти одиницю кошика з ідентифікатором: %1.",module,Magento_QuoteGraphQl
 "It is impossible to log user action","It is impossible to log user action",module,Magento_ReleaseNotification
 "Error message","Повідомлення про помилку",module,Magento_ReleaseNotification
 "An error occurred while logging process.","An error occurred while logging process.",module,Magento_ReleaseNotification
