@@ -4,6 +4,7 @@ Maybe **Magento 2 Ukrainian Language Pack** should be the first must-have thing 
 
 Read more [Magento 2 Ukrainian Language Pack](https://www.mageplaza.com/magento-2-ukrainian-language-pack.html)
 
+![Mageplaza Ukrainian language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
