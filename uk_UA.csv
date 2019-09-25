@@ -16222,73 +16222,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Підсумок",theme,frontend/Magento/blank
-"Account Dashboard","Панель керування облікового запису",theme,frontend/Magento/blank
-"Account Information","Інформація про обліковий запис",theme,frontend/Magento/blank
-"Address Book","Адресна книга",theme,frontend/Magento/blank
-"Menu","Меню",theme,frontend/Magento/blank
-"Account","Обліковий запис",theme,frontend/Magento/blank
-"Settings","Налаштування",theme,frontend/Magento/blank
-"Now Shopping by","Тепер покупки за",theme,frontend/Magento/luma
-"Previous","Попереднє",theme,frontend/Magento/luma
-"Remove","Вилучити",theme,frontend/Magento/luma
-"Remove This Item","Видалити Цей Елемент",theme,frontend/Magento/luma
-"Shop By","Продукція за",theme,frontend/Magento/luma
-"Clear All","Очистити всі",theme,frontend/Magento/luma
-"Shopping Options","Варіанти товарів",theme,frontend/Magento/luma
-"Welcome to %store_name","Ласкаво просимо до %store_name",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","Ласкаво просимо на %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входу на наш сайт використовуйте ці облікові дані під час оформлення замовлення або на <a href=""%customer_url"">Мій аккаунт </a> сторінці:",theme,frontend/Magento/luma
-"Email:","Електронна пошта:",theme,frontend/Magento/luma
-"Password:","Пароль:",theme,frontend/Magento/luma
-"Password you set when creating account","Пароль встановлено під час створення облікового запису",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забули ваш пароль облікового запису? Натисніть <a href=""%reset_url"">тут</a>, щоб скинути його.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Після входу у ваш акаунт, ви зможете:",theme,frontend/Magento/luma
-"Quick Checkout","Швидке замовлення",theme,frontend/Magento/luma
-"Proceed through checkout faster","Приступити до оформлення замовлення швидше",theme,frontend/Magento/luma
-"Order Status","Статус замовлення",theme,frontend/Magento/luma
-"Check the status of orders","Перевірити статус замовлень",theme,frontend/Magento/luma
-"Manage Addresses","Керувати адресами",theme,frontend/Magento/luma
-"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Для доставки кільком членам сім'ї та друзям",theme,frontend/Magento/luma
-"Order History","Історія замовлень",theme,frontend/Magento/luma
-"View past orders","Переглянути останні замовлення",theme,frontend/Magento/luma
-"Footer","Нижній колонтитул",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Про нас</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Обслуговування Клієнтів</a>",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Години роботи:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Дякуємо вам за ваше замовлення в %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ви можете перевірити стан вашого замовлення, <a href=""%account_url"">увійшовши у свій акаунт</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Якщо у вас є питання стосовно вашого замовлення, ви можете написати нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
-"Billing Info","Інформація щодо сплати",theme,frontend/Magento/luma
-"Shipping Info","Інформація щодо доставки",theme,frontend/Magento/luma
-"Payment Method","Спосіб оплати",theme,frontend/Magento/luma
-"Shipping Method","Спосіб доставки",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваше замовлення #%increment_id було оновлено із статусом <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Рахунок-фактура для вашого замовлення %store_name",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Ваш рахунок-фактур #%invoice_id для замовлення #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Оновити рахунок-фактуру %store_name",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Підтвердження замовлення %store_name",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відравлено.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Ваше замовлення <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Придбано <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Оновлення вашого %store_name замовлення",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Ваше замовлення %store_name було відправлено",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Підтвердження доставки знаходиться нижче. Ще раз дякуємо за ваш час.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Панель керування облікового запису",theme,frontend/Magento/luma
-"Address Book","Адресна книга",theme,frontend/Magento/luma
-"Account Information","Інформація про обліковий запис",theme,frontend/Magento/luma
-"About Us","Про нас",theme,frontend/Magento/luma
-"Customer Service","Customer Service",theme,frontend/Magento/luma
-"My Account","Мій обліковий запис",theme,frontend/Magento/luma
+"Summary","Підсумок",theme,frontend\Magento\blank
+"Account Dashboard","Панель керування облікового запису",theme,frontend\Magento\blank
+"Account Information","Інформація про обліковий запис",theme,frontend\Magento\blank
+"Address Book","Адресна книга",theme,frontend\Magento\blank
+"Menu","Меню",theme,frontend\Magento\blank
+"Account","Обліковий запис",theme,frontend\Magento\blank
+"Settings","Налаштування",theme,frontend\Magento\blank
+"Now Shopping by","Тепер покупки за",theme,frontend\Magento\luma
+"Previous","Попереднє",theme,frontend\Magento\luma
+"Remove","Вилучити",theme,frontend\Magento\luma
+"Remove This Item","Видалити Цей Елемент",theme,frontend\Magento\luma
+"Shop By","Продукція за",theme,frontend\Magento\luma
+"Clear All","Очистити всі",theme,frontend\Magento\luma
+"Shopping Options","Варіанти товарів",theme,frontend\Magento\luma
+"Welcome to %store_name","Ласкаво просимо до %store_name",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","Ласкаво просимо на %store_name.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входу на наш сайт використовуйте ці облікові дані під час оформлення замовлення або на <a href=""%customer_url"">Мій аккаунт </a> сторінці:",theme,frontend\Magento\luma
+"Email:","Електронна пошта:",theme,frontend\Magento\luma
+"Password:","Пароль:",theme,frontend\Magento\luma
+"Password you set when creating account","Пароль встановлено під час створення облікового запису",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забули ваш пароль облікового запису? Натисніть <a href=""%reset_url"">тут</a>, щоб скинути його.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","Після входу у ваш акаунт, ви зможете:",theme,frontend\Magento\luma
+"Quick Checkout","Швидке замовлення",theme,frontend\Magento\luma
+"Proceed through checkout faster","Приступити до оформлення замовлення швидше",theme,frontend\Magento\luma
+"Order Status","Статус замовлення",theme,frontend\Magento\luma
+"Check the status of orders","Перевірити статус замовлень",theme,frontend\Magento\luma
+"Manage Addresses","Керувати адресами",theme,frontend\Magento\luma
+"Store alternative addresses","Store alternative addresses",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","Для доставки кільком членам сім'ї та друзям",theme,frontend\Magento\luma
+"Order History","Історія замовлень",theme,frontend\Magento\luma
+"View past orders","Переглянути останні замовлення",theme,frontend\Magento\luma
+"Footer","Нижній колонтитул",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Про нас</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Обслуговування Клієнтів</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Години роботи:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","Дякуємо вам за ваше замовлення в %store_name.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ви можете перевірити стан вашого замовлення, <a href=""%account_url"">увійшовши у свій акаунт</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Якщо у вас є питання стосовно вашого замовлення, ви можете написати нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
+"Billing Info","Інформація щодо сплати",theme,frontend\Magento\luma
+"Shipping Info","Інформація щодо доставки",theme,frontend\Magento\luma
+"Payment Method","Спосіб оплати",theme,frontend\Magento\luma
+"Shipping Method","Спосіб доставки",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваше замовлення #%increment_id було оновлено із статусом <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","Рахунок-фактура для вашого замовлення %store_name",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","Ваш рахунок-фактур #%invoice_id для замовлення #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","Оновити рахунок-фактуру %store_name",theme,frontend\Magento\luma
+"Your %store_name order confirmation","Підтвердження замовлення %store_name",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відравлено.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Ваше замовлення <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","Придбано <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","Оновлення вашого %store_name замовлення",theme,frontend\Magento\luma
+"Your %store_name order has shipped","Ваше замовлення %store_name було відправлено",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","Підтвердження доставки знаходиться нижче. Ще раз дякуємо за ваш час.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
+"Account Dashboard","Панель керування облікового запису",theme,frontend\Magento\luma
+"Address Book","Адресна книга",theme,frontend\Magento\luma
+"Account Information","Інформація про обліковий запис",theme,frontend\Magento\luma
+"About Us","Про нас",theme,frontend\Magento\luma
+"Customer Service","Customer Service",theme,frontend\Magento\luma
+"My Account","Мій обліковий запис",theme,frontend\Magento\luma
 "Backup options","Опції Резервної Копії",lib,web
 "Warning","Попередження",lib,web
 "Cancel","Скасувати",lib,web
