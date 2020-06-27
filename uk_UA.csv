@@ -20,16 +20,16 @@
 "You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Ви не маєте дозволу зберегти цей елемент у поточні крамниці. Будь ласка, переключіться на дозволену крамницю",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","Додаткові дозволи необхідні для видалення елемента ""%1"".",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Цей об'єкт має бути закріплений за крамницею. Перевірте це та повторіть спробу.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Замовлення можуть бути завершені тільки в активному магазині. Перевірте магазин і спробуйте ще раз.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Цей елемент має бути призначений до магазину. Перевірте чи призначений елемент та повторіть спробу.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Додаткові дозволи необхідні для збереження цього елемента.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Додаткові дозволи необхідні для видалення цього елемента.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Додаткові дозволи необхідні для перегляду цього елемента.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Принаймні один веб-сайт або група магазинів потрібно вибрати. Виберіть та повторіть спробу.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Додаткові дозволи необхідні для встановлення ""Всі області"" для ролі.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" це хибний ID для веб-сайту. Перевірте ID та повторіть спробу.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" це хибний ID для магазину. Перевірте ID та повторіть спробу.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Додаткові дозволи необхідні для збереження цього налаштування.",module,Magento_AdminGws
 "Read Details","Читати подробиці",module,Magento_AdminNotification
 "Mark as Read","Позначити як прочитане",module,Magento_AdminNotification
 "Are you sure?","Ви впевнені?",module,Magento_AdminNotification
@@ -219,16 +219,16 @@
 "Order by SKU Template","Шаблон замовлення за артикулом",module,Magento_AdvancedCheckout
 "SKU not found in catalog.","Артикул не знайдено в каталозі.",module,Magento_AdvancedCheckout
 "This file needs to be in .csv format.","Цей файл має бути у .csv форматі.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Цей клієнт не знайдений. Перевірте клієнта і спробуйте ще раз.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Цей магазин не знайдений. Перевірте магазин і спробуйте ще раз.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Виникла помилка. Деталі дивіться в журналі помилок.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Замовлення можуть бути завершені тільки в активному магазині. Перевірте магазин і спробуйте ще раз.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Замовлений товар повинен бути завантажений. Завантажте товар і спробуйте ще раз.",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Елемент із список побажань повинен бути отриманий. Завантажте елемент і повторіть спробу.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Елемент із списку побажань повинен бути завантажений. Завантажте елемент і повторіть спробу.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Файл пошкоджений і не може використовуватися.",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Будь ласка, виправте відправлені дані.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Модель типу об'єкта '%1' не знайдено",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Модель типу об\'єкта повинна бути екземпляром \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
@@ -277,7 +277,7 @@
 "Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
 "Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
 "Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
+"Encryption key can't be empty.","Ключ шифрування не може бути пустим.",module,Magento_Analytics
 "Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
 "These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
@@ -726,7 +726,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Next steps","Наступний крок",module,Magento_Backend
 "If you think this is an error, try signing out and signing in again.","Якщо ви думаєте, що це помилка, спробуйте вийти та ввійти знову.",module,Magento_Backend
 "Contact a system administrator or store owner to gain permissions.","Зверніться до системного адміністратора або власника магазину, щоб отримати права доступу.",module,Magento_Backend
-"Return to ","Return to ",module,Magento_Backend
+"Return to ","Повернутися до ",module,Magento_Backend
 "HTTP_REFERER","HTTP_REFERER",module,Magento_Backend
 "previous page","попередня сторінка",module,Magento_Backend
 ".",".",module,Magento_Backend
@@ -816,7 +816,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Elements","Елементи",module,Magento_Backend
 "Design","Дизайн",module,Magento_Backend
 "Schedule","Розклад",module,Magento_Backend
-"Content translation","Content translation",module,Magento_Backend
+"Content translation","Переклад",module,Magento_Backend
 "Settings","Налаштування",module,Magento_Backend
 "Attributes","Атрибути",module,Magento_Backend
 "Other Settings","Інші Налаштування",module,Magento_Backend
@@ -970,9 +970,9 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Pagination","Пагінація",module,Magento_Backend
 "How many links to display at once.","Кількість посилань для одночасного відображення.",module,Magento_Backend
 "Pagination Frame","Кадрування Пагінації",module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Якщо поточне положення кадрування не покриває всі можливі сторінки, буде надаватися посилання на поточне положення плюс/мінус це значення.",module,Magento_Backend
 "Pagination Frame Skip","Пропустити Кадрування Пагінації",module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Альтернативний текст для попереднього посилання у меню пагінації. Якщо пусто, зображення стрілки за замовчування буде використовуватися.",module,Magento_Backend
 "Anchor Text for Previous","Anchor Text для Попереднього",module,Magento_Backend
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",module,Magento_Backend
 "Anchor Text for Next","Anchor Text для Наступного",module,Magento_Backend
@@ -3217,7 +3217,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "You added %1 to your shopping cart.","Ви додали %1 у Ваш кошик.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Наразі ми не можемо додати цю позицію до вашого кошику.",module,Magento_Checkout
 "Out of stock","Немає у наявності",module,Magento_Checkout
-"We can't find the quote item.","We can't find the quote item.",module,Magento_Checkout
+"We can't find the quote item.","Ми не можемо знайти товар за вашим запитом.",module,Magento_Checkout
 "We cannot configure the product.","Ми не можемо налаштувати продукт.",module,Magento_Checkout
 "You used coupon code ""%1"".","Ви використовували код купона ""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Код купона ""%1"" не є дійсним.",module,Magento_Checkout
@@ -3237,19 +3237,19 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Payment Method","Спосіб оплати",module,Magento_Checkout
 "Payment Page","Сторінка Оплати",module,Magento_Checkout
 "We can't find the product.","Ми не можемо знайти товар.",module,Magento_Checkout
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Checkout
+"We found an invalid request for adding product to quote.","Ми отримали некоректний запит на додавання товару в кошик.",module,Magento_Checkout
 "The product does not exist.","Продукт не існує.",module,Magento_Checkout
 "We don't have some of the products you want.","На жаль цих продуктів немає в наявності.",module,Magento_Checkout
 "We don't have as many of some products as you want.","Ми не маємо в наявності таку кількість товарів.",module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","Кількість було повторно обчислено від %1 до %2",module,Magento_Checkout
-"We adjusted product quantities to fit the required increments.","We adjusted product quantities to fit the required increments.",module,Magento_Checkout
-"This quote item does not exist.","This quote item does not exist.",module,Magento_Checkout
+"We adjusted product quantities to fit the required increments.","Ми підналаштували кількість товару у відповідності з мінімально допустимим кроком для підвищення.",module,Magento_Checkout
+"This quote item does not exist.","Вибачте, запрошеного Вами товару не існує.",module,Magento_Checkout
 "Display number of items in cart","Відобразити кількість товарів в кошику",module,Magento_Checkout
 "Display item quantities","Відображати кількість елементу",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","На сервері сталася помилка. Будь ласка, спробуйте розмістити замовлення знову.",module,Magento_Checkout
 "Shipping address is not set","Не вказано адресу доставки",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","Не вдалося зберегти інформацію про доставку. Будь ласка, перевірте введені дані.",module,Magento_Checkout
-"Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2",module,Magento_Checkout
+"Carrier with such method not found: %1, %2","Перевізника з вказаним методом доставки не знайдено: %1, %2",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","Спосіб доставки не є вірним для порожнього кошика",module,Magento_Checkout
 " item"," позиція",module,Magento_Checkout
 " items"," елементи",module,Magento_Checkout
@@ -3260,12 +3260,12 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "There are more than one shipping addresses.","Є більш одного місця доставки.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Вибачте, але відгуки в оформлені замовлення недоступні.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Ви повинні підтвердити свій обліковий запис. Вам на пошту відправлений лист з підтвердженням, перейдіть, будь ласка, за посиланням для підтвердження або, <a href=""%1""> натисніть тут</a> для повторної відправки листа.",module,Magento_Checkout
-"Load customer quote error","Load customer quote error",module,Magento_Checkout
+"Load customer quote error","Помилка при спробі завантаження користувацьких даних",module,Magento_Checkout
 "Error message!","Повідомлення про помилку!",module,Magento_Checkout
 "Error!","Помилка!",module,Magento_Checkout
 "DB exception","Виняток бази даних",module,Magento_Checkout
 "Message","Повідомлення",module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","Роздрукувати чек",module,Magento_Checkout
 "Apply Discount Code","Застосувати код знижки",module,Magento_Checkout
 "Enter discount code","Введіть код знижки",module,Magento_Checkout
 "Apply Discount","Застосувати знижку",module,Magento_Checkout
@@ -3317,7 +3317,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Update","Оновити",module,Magento_Checkout
 "Cancel","Скасувати",module,Magento_Checkout
 "Save in address book","Зберегти в адресну книгу",module,Magento_Checkout
-"Estimated Total","Estimated Total",module,Magento_Checkout
+"Estimated Total","Прогнозований Підсумок",module,Magento_Checkout
 "You can create an account after checkout.","Після оформлення замовлення Ви можете створити обліковий запис.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","У Вас вже є обліковий запис. Будь ласка, увійдіть, або продовжуйте як гість.",module,Magento_Checkout
 "Login","Увійти",module,Magento_Checkout
@@ -3338,7 +3338,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "View and Edit Cart","Переглянути та редагувати кошик",module,Magento_Checkout
 "View Details","Переглянути подробиці",module,Magento_Checkout
 "Field ","Поле ",module,Magento_Checkout
-" is required."," is required.",module,Magento_Checkout
+" is required."," необхідне.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Поштовий індекс недійсний.",module,Magento_Checkout
 " Example: "," Наприклад: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Якщо ви вважаєте, що це є правильним ви можете проігнорувати це повідомлення.",module,Magento_Checkout
@@ -3354,23 +3354,23 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Allow Guest Checkout","Дозволяє робити замовленням гостям",module,Magento_Checkout
 "Display Billing Address On","Показати адресу замовника на",module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","Максимальна кількість товарів для показу на зведеному замовленні",module,Magento_Checkout
-"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
+"Quote Lifetime (days)","Час життя заявки (дні)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Після додавання продукту перенаправлення в кошик",module,Magento_Checkout
-"Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
+"Number of Items to Display Pager","Кількість елементів, яка призведе до появи Нумерації сторінок",module,Magento_Checkout
 "My Cart Link","Посилання на кошик",module,Magento_Checkout
 "Display Cart Summary","Показати короткий огляд кошика",module,Magento_Checkout
 "Shopping Cart Sidebar","Кошик на боковій панелі",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Відображення кошика на боковій панелі",module,Magento_Checkout
-"Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
-"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
-"Payment Failed Emails","Payment Failed Emails",module,Magento_Checkout
-"Payment Failed Email Sender","Payment Failed Email Sender",module,Magento_Checkout
-"Payment Failed Email Receiver","Payment Failed Email Receiver",module,Magento_Checkout
-"Payment Failed Template","Payment Failed Template",module,Magento_Checkout
+"Number of Items to Display Scrollbar","Кількість елементів, що призведе до автоматичної появи панелі прокрутки",module,Magento_Checkout
+"Maximum Number of Items to Display","Максимальна кількість елементів для відображення",module,Magento_Checkout
+"Payment Failed Emails","Інформування щодо замовлень з невдалою оплатою (ел. пошта)",module,Magento_Checkout
+"Payment Failed Email Sender","Відправник листів щодо замовлень з невдалою оплатою",module,Magento_Checkout
+"Payment Failed Email Receiver","Отримувач листів щодо замовлень з невдалою оплатою",module,Magento_Checkout
+"Payment Failed Template","Шаблон листа щодо замовлення з невдалою оплатою",module,Magento_Checkout
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Шаблон електронного листа обрано на основі теми відступання, коли опція ""За замовчуванням"" обрана.",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Надіслати копію листа з інформацією щодо замовлення з невдалою оплатою на таку адресу",module,Magento_Checkout
 "Separate by "","".","Окремо від "","".",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Спосіб надсилання копії повідомлення щодо замовлення з невдалою оплатою",module,Magento_Checkout
 "Summary","Підсумок",module,Magento_Checkout
 "Order Total","Вартість замовлення",module,Magento_Checkout
 "Shipping Address","Адреса доставки",module,Magento_Checkout
@@ -3379,10 +3379,10 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Not yet calculated","Ще не підраховано",module,Magento_Checkout
 "We received your order!","Ми отримали ваше замовлення!",module,Magento_Checkout
 "Thank you for your purchase!","Дякуємо за покупку!",module,Magento_Checkout
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Checkout
+"Minimum order amount is %1","Мінімальна сума замовлення становить %1",module,Magento_Checkout
 "Unable to save address. Please, check input data.","Не вдалося зберегти адресу. Будь ласка, перевірте введені дані.",module,Magento_Checkout
 "Unable to save shipping information. Please, check input data.","Не вдалося зберегти інформацію про доставку. Будь ласка, перевірте введені дані.",module,Magento_Checkout
-"Cart contains virtual product(s) only. Shipping address is not applicable.","Cart contains virtual product(s) only. Shipping address is not applicable.",module,Magento_Checkout
+"Cart contains virtual product(s) only. Shipping address is not applicable.","Кошик містить тільки віртуальний товар(и). Адреса доставки не потрібна.",module,Magento_Checkout
 "Wrong minimum amount.","Некоректна мінімальна сума.",module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Роздрукувати квитанцію</a>",module,Magento_Checkout
 "Forgot Password","Забули пароль",module,Magento_Checkout
@@ -3398,28 +3398,28 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Method Title","Назва методу",module,Magento_Checkout
 "Carrier Title","Назва перевізника",module,Magento_Checkout
 "Next","Наступне",module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","На жаль, бракує необхідної кількості товару, аби забезпечити Ваше замовлення",module,Magento_Checkout
 "Item in Cart","Позиція в кошику",module,Magento_Checkout
 "Items in Cart","Позицій(ї) в кошику",module,Magento_Checkout
 "Require Customer To Be Logged In To Checkout","Для розрахунку необхідно, щоб клієнт увійшов до системи",module,Magento_Checkout
-"Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
+"Maximum Display Recently Added Item(s)","Максимальна кількість щойно доданих елементів, які буде показано",module,Magento_Checkout
 "of","з",module,Magento_Checkout
-"Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
-"Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"Something went wrong while saving the page. Please refresh the page and try again.","Щось пішло не так під час збереження сторінки. Будь ласка, оновіть сторінку та повторіть спробу.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Ви додали %1 до Вашого <a href=""%2"">кошика</a>.",module,Magento_Checkout
+"Please select at least one product to add to cart","Оберіть принаймні один з перелічених товарів, аби додати його в кошик",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","Товар за вашим запитом не знайдено. Перевірте, чи саме той товар ви вказали та повторіть спробу.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Замовлення не завершене. Спершу підтвердьте згоду з вказаними нижче умовами та спробуйте розмістити/фіналізувати замовлення знову.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Товар не знайдено. Перевірте, чи саме той товар ви вказали та повторіть спробу.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Помилка сервера перервала процес вашого замовлення. Спробуйте оформити замовлення ще раз.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Відсутня адреса доставки. Вкажіть адресу та повторіть спробу.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Інформацію щодо доставки вашого замовлення не вдалось зберегти. Перевірте правильність введених даних і повторіть спробу.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Спосіб доставки не може бути обраний для порожнього кошика. Додайте будь-який необхідний товар у кошик і повторіть спробу.",module,Magento_Checkout
 "Billing Address","Платіжна Адреса",module,Magento_Checkout
-"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Щось пішло не так під час обробки вашого запиту. Будь ласка, спробуйте ще раз пізніше.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Не вказано метод доставки. Оберіть необхідний Вам спосіб доставки та повторіть спробу.",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Показати товари перехресного продажу у кошику",module,Magento_Checkout
 "Unable to place order. Please try again later.","Не вдалося розмістити замовлення. Будь ласка, спробуйте ще раз пізніше.",module,Magento_Checkout
-"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Будь ласка, вкажіть Id регіону в адресі доставки.",module,Magento_Checkout
 "Terms and Conditions","Правила та умови використання",module,Magento_CheckoutAgreements
 "Add New Condition","Додати нову умову",module,Magento_CheckoutAgreements
 "Save Condition","Зберегти умову",module,Magento_CheckoutAgreements
@@ -4443,7 +4443,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "SKU","Артикул",module,Magento_ConfigurableProduct
 "Price","Ціна",module,Magento_ConfigurableProduct
 "Quantity","Кількість",module,Magento_ConfigurableProduct
-"Weight","Weight",module,Magento_ConfigurableProduct
+"Weight","Вага",module,Magento_ConfigurableProduct
 "Status","Статус",module,Magento_ConfigurableProduct
 "Attributes","Атрибути",module,Magento_ConfigurableProduct
 "Actions","Дії",module,Magento_ConfigurableProduct
@@ -4592,10 +4592,10 @@ new products will be created. Use this step to customize images and price for yo
 "Searchable","Доступний для пошуку",module,Magento_ConfigurableProductStaging
 "Comparable","Порівнянний",module,Magento_ConfigurableProductStaging
 "Page not found.","Сторінка не знайдена.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Дякуємо Вам за те, що поділились з нами Вашою думкою чи задали додаткове Запитання. Ми спробуємо відповісти Вам якомога швидше.",module,Magento_Contact
 "An error occurred while processing your form. Please try again later.","Сталася помилка під час обробки вашої форми. Будь ласка, спробуйте ще раз пізніше.",module,Magento_Contact
-"Name is missing","Name is missing",module,Magento_Contact
-"Comment is missing","Comment is missing",module,Magento_Contact
+"Name is missing","Ім'я відсутнє",module,Magento_Contact
+"Comment is missing","Коментар відсутній",module,Magento_Contact
 "Invalid email address","Некоректна адреса електронної пошти",module,Magento_Contact
 "* Required Fields","* Обов'язкові поля",module,Magento_Contact
 "Write Us","Напишіть нам",module,Magento_Contact
@@ -4617,14 +4617,14 @@ new products will be created. Use this step to customize images and price for yo
 "Email Sender","Відправник електронного листа",module,Magento_Contact
 "Email Template","Шаблон електронного листа",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Шаблон електронного листа обрано на основі теми відступання, коли опція ""За замовчуванням"" обрана.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Ми не можемо обробити ваш запит прямо зараз. На жаль, це все, що ми знаємо.",module,Magento_Contact
 "Name: %name","Ім'я: %name",module,Magento_Contact
 "Email: %email","Електронна пошта: %email",module,Magento_Contact
 "Phone Number: %telephone","Номер телефону: %telephone",module,Magento_Contact
 "Comment: %comment","Коментар: %comment",module,Magento_Contact
-"Enter the Name and try again.","Enter the Name and try again.",module,Magento_Contact
-"Enter the comment and try again.","Enter the comment and try again.",module,Magento_Contact
-"The email address is invalid. Verify the email address and try again.","The email address is invalid. Verify the email address and try again.",module,Magento_Contact
+"Enter the Name and try again.","Введіть ім'я та повторіть спробу.",module,Magento_Contact
+"Enter the comment and try again.","Введіть коментар та повторіть спробу.",module,Magento_Contact
+"The email address is invalid. Verify the email address and try again.","Вказана адреса електронної пошти некоректна. Будь ласка, перевірте уважніше введену Вами адресу електронної пошти та повторіть спробу.",module,Magento_Contact
 "Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
 "Invalid cookie path","Invalid cookie path",module,Magento_Cookie
@@ -4632,15 +4632,15 @@ new products will be created. Use this step to customize images and price for yo
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>.",module,Magento_Cookie
 "Allow Cookies","Дозволити файли cookie",module,Magento_Cookie
-"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
+"Default Cookie Settings","Типові параметри Cookie",module,Magento_Cookie
 "Cookie Lifetime","Час життя cookie-файлу",module,Magento_Cookie
 "Cookie Path","Cookie Path",module,Magento_Cookie
 "Cookie Domain","Cookie Domain",module,Magento_Cookie
-"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
-"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie
+"Use HTTP Only","Використовувати лише HTTP",module,Magento_Cookie
+"Cookie Restriction Mode","Режим обмеження Cookie",module,Magento_Cookie
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.",module,Magento_Cookie
-"'Invalid domain name: ' .","'Invalid domain name: ' .",module,Magento_Cookie
-"'Invalid cookie lifetime: ' .","'Invalid cookie lifetime: ' .",module,Magento_Cookie
+"'Invalid domain name: ' .","'Недопустиме доменне ім'я: ' .",module,Magento_Cookie
+"'Invalid cookie lifetime: ' .","'Недопустимий час життя cookie: ' .",module,Magento_Cookie
 "We can't save the cron expression.","We can't save the cron expression.",module,Magento_Cron
 "Daily","Щоденно",module,Magento_Cron
 "Weekly","Щотижневий",module,Magento_Cron
@@ -5115,7 +5115,7 @@ new products will be created. Use this step to customize images and price for yo
 "Your %store_name email and password has been changed","Ваші %store_name електронну пошту та пароль було змінено",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Ми отримали прохання про зміну наступної інформації, пов'язаної з Вашим обліковим записом на %store_name: пароль.",module,Magento_Customer
 "Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
+"There was recently a request to change the password for your account.","Ми отримали запит на скидання пароля для вашого акаунту.",module,Magento_Customer
 "If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
 "Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
@@ -15342,7 +15342,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
 "Password Reset Confirmation for %name","Підтвердження скидання пароля для %name",module,Magento_User
 "%name,","%name,",module,Magento_User
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
+"There was recently a request to change the password for your account.","Ми отримали запит на скидання пароля для вашого акаунту.",module,Magento_User
 "If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
 "Thank you,","Thank you,",module,Magento_User
@@ -16222,73 +16222,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Підсумок",theme,frontend\Magento\blank
-"Account Dashboard","Панель керування облікового запису",theme,frontend\Magento\blank
-"Account Information","Інформація про обліковий запис",theme,frontend\Magento\blank
-"Address Book","Адресна книга",theme,frontend\Magento\blank
-"Menu","Меню",theme,frontend\Magento\blank
-"Account","Обліковий запис",theme,frontend\Magento\blank
-"Settings","Налаштування",theme,frontend\Magento\blank
-"Now Shopping by","Тепер покупки за",theme,frontend\Magento\luma
-"Previous","Попереднє",theme,frontend\Magento\luma
-"Remove","Вилучити",theme,frontend\Magento\luma
-"Remove This Item","Видалити Цей Елемент",theme,frontend\Magento\luma
-"Shop By","Продукція за",theme,frontend\Magento\luma
-"Clear All","Очистити всі",theme,frontend\Magento\luma
-"Shopping Options","Варіанти товарів",theme,frontend\Magento\luma
-"Welcome to %store_name","Ласкаво просимо до %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Ласкаво просимо на %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входу на наш сайт використовуйте ці облікові дані під час оформлення замовлення або на <a href=""%customer_url"">Мій аккаунт </a> сторінці:",theme,frontend\Magento\luma
-"Email:","Електронна пошта:",theme,frontend\Magento\luma
-"Password:","Пароль:",theme,frontend\Magento\luma
-"Password you set when creating account","Пароль встановлено під час створення облікового запису",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забули ваш пароль облікового запису? Натисніть <a href=""%reset_url"">тут</a>, щоб скинути його.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Після входу у ваш акаунт, ви зможете:",theme,frontend\Magento\luma
-"Quick Checkout","Швидке замовлення",theme,frontend\Magento\luma
-"Proceed through checkout faster","Приступити до оформлення замовлення швидше",theme,frontend\Magento\luma
-"Order Status","Статус замовлення",theme,frontend\Magento\luma
-"Check the status of orders","Перевірити статус замовлень",theme,frontend\Magento\luma
-"Manage Addresses","Керувати адресами",theme,frontend\Magento\luma
-"Store alternative addresses","Store alternative addresses",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Для доставки кільком членам сім'ї та друзям",theme,frontend\Magento\luma
-"Order History","Історія замовлень",theme,frontend\Magento\luma
-"View past orders","Переглянути останні замовлення",theme,frontend\Magento\luma
-"Footer","Нижній колонтитул",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Про нас</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Обслуговування Клієнтів</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Години роботи:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Дякуємо вам за ваше замовлення в %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ви можете перевірити стан вашого замовлення, <a href=""%account_url"">увійшовши у свій акаунт</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Якщо у вас є питання стосовно вашого замовлення, ви можете написати нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
-"Billing Info","Інформація щодо сплати",theme,frontend\Magento\luma
-"Shipping Info","Інформація щодо доставки",theme,frontend\Magento\luma
-"Payment Method","Спосіб оплати",theme,frontend\Magento\luma
-"Shipping Method","Спосіб доставки",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваше замовлення #%increment_id було оновлено із статусом <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Рахунок-фактура для вашого замовлення %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Ваш рахунок-фактур #%invoice_id для замовлення #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Оновити рахунок-фактуру %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Підтвердження замовлення %store_name",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відравлено.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Ваше замовлення <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Придбано <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Оновлення вашого %store_name замовлення",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Ваше замовлення %store_name було відправлено",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Підтвердження доставки знаходиться нижче. Ще раз дякуємо за ваш час.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
-"Account Dashboard","Панель керування облікового запису",theme,frontend\Magento\luma
-"Address Book","Адресна книга",theme,frontend\Magento\luma
-"Account Information","Інформація про обліковий запис",theme,frontend\Magento\luma
-"About Us","Про нас",theme,frontend\Magento\luma
-"Customer Service","Customer Service",theme,frontend\Magento\luma
-"My Account","Мій обліковий запис",theme,frontend\Magento\luma
+"Summary","Підсумок",theme,frontend/Magento/blank
+"Account Dashboard","Панель керування облікового запису",theme,frontend/Magento/blank
+"Account Information","Інформація про обліковий запис",theme,frontend/Magento/blank
+"Address Book","Адресна книга",theme,frontend/Magento/blank
+"Menu","Меню",theme,frontend/Magento/blank
+"Account","Обліковий запис",theme,frontend/Magento/blank
+"Settings","Налаштування",theme,frontend/Magento/blank
+"Now Shopping by","Тепер покупки за",theme,frontend/Magento/luma
+"Previous","Попереднє",theme,frontend/Magento/luma
+"Remove","Вилучити",theme,frontend/Magento/luma
+"Remove This Item","Видалити Цей Елемент",theme,frontend/Magento/luma
+"Shop By","Продукція за",theme,frontend/Magento/luma
+"Clear All","Очистити всі",theme,frontend/Magento/luma
+"Shopping Options","Варіанти товарів",theme,frontend/Magento/luma
+"Welcome to %store_name","Ласкаво просимо до %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Ласкаво просимо на %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входу на наш сайт використовуйте ці облікові дані під час оформлення замовлення або на <a href=""%customer_url"">Мій аккаунт </a> сторінці:",theme,frontend/Magento/luma
+"Email:","Електронна пошта:",theme,frontend/Magento/luma
+"Password:","Пароль:",theme,frontend/Magento/luma
+"Password you set when creating account","Пароль встановлено під час створення облікового запису",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Забули ваш пароль облікового запису? Натисніть <a href=""%reset_url"">тут</a>, щоб скинути його.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Після входу у ваш акаунт, ви зможете:",theme,frontend/Magento/luma
+"Quick Checkout","Швидке замовлення",theme,frontend/Magento/luma
+"Proceed through checkout faster","Приступити до оформлення замовлення швидше",theme,frontend/Magento/luma
+"Order Status","Статус замовлення",theme,frontend/Magento/luma
+"Check the status of orders","Перевірити статус замовлень",theme,frontend/Magento/luma
+"Manage Addresses","Керувати адресами",theme,frontend/Magento/luma
+"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Для доставки кільком членам сім'ї та друзям",theme,frontend/Magento/luma
+"Order History","Історія замовлень",theme,frontend/Magento/luma
+"View past orders","Переглянути останні замовлення",theme,frontend/Magento/luma
+"Footer","Нижній колонтитул",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Про нас</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Обслуговування Клієнтів</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Години роботи:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Дякуємо вам за ваше замовлення в %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ви можете перевірити стан вашого замовлення, <a href=""%account_url"">увійшовши у свій акаунт</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Якщо у вас є питання стосовно вашого замовлення, ви можете написати нам на <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Інформація щодо сплати",theme,frontend/Magento/luma
+"Shipping Info","Інформація щодо доставки",theme,frontend/Magento/luma
+"Payment Method","Спосіб оплати",theme,frontend/Magento/luma
+"Shipping Method","Спосіб доставки",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Ваше замовлення #%increment_id було оновлено із статусом <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Рахунок-фактура для вашого замовлення %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Ваш рахунок-фактур #%invoice_id для замовлення #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Оновити рахунок-фактуру %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Підтвердження замовлення %store_name",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відравлено.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Ваше замовлення <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Придбано <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Оновлення вашого %store_name замовлення",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Ваше замовлення %store_name було відправлено",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Підтвердження доставки знаходиться нижче. Ще раз дякуємо за ваш час.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Ваша доставка #%shipment_id за замовлення #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Account Dashboard","Панель керування облікового запису",theme,frontend/Magento/luma
+"Address Book","Адресна книга",theme,frontend/Magento/luma
+"Account Information","Інформація про обліковий запис",theme,frontend/Magento/luma
+"About Us","Про нас",theme,frontend/Magento/luma
+"Customer Service","Обслуговування клієнтів",theme,frontend/Magento/luma
+"My Account","Мій обліковий запис",theme,frontend/Magento/luma
 "Backup options","Опції Резервної Копії",lib,web
 "Warning","Попередження",lib,web
 "Cancel","Скасувати",lib,web
@@ -16297,7 +16297,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "No records found.","Записів не знайдено.",lib,web
 "Recent items","Останні елементи",lib,web
 "Show all...","Показати все...",lib,web
-"Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field.",lib,web
+"Please enter a number greater 0 in this field.","Будь ласка, введіть число, більше за 0 у це поле.",lib,web
 "Please select one of each ratings above.","Please select one of each ratings above.",lib,web
 "Please specify Url.","Будь ласка, вкажіть Url-адресу.",lib,web
 "Method %s does not exist on jQuery.decorate","Метод %s не існує на jQuery.decorate",lib,web
@@ -16312,10 +16312,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Translate","Перекласти",lib,web
 "Submit","Підтвердити",lib,web
 "Please enter {0} words or less.","Будь ласка, введіть {0} слів або менше.",lib,web
-"Please enter at least {0} words.","Please enter at least {0} words.",lib,web
-"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",lib,web
+"Please enter at least {0} words.","Будь ласка, введіть менше {0} слів.",lib,web
+"Please enter between {0} and {1} words.","Будь ласка, введіть від {0} до {1} слів.",lib,web
 "Letters or punctuation only please","Letters or punctuation only please",lib,web
-"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",lib,web
+"Letters, numbers, spaces or underscores only please","Будь ласка, лише букви, цифри, пробіли чи підкреслення",lib,web
 "Letters only please","Лише літери, будь ласка",lib,web
 "No white space please","No white space please",lib,web
 "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",lib,web
@@ -16324,13 +16324,13 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a correct date","Please enter a correct date",lib,web
 "Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",lib,web
 "Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",lib,web
-"Please specify a valid phone number","Please specify a valid phone number",lib,web
-"Please specify a valid mobile number","Please specify a valid mobile number",lib,web
-"Please enter at least {0} characters","Please enter at least {0} characters",lib,web
-"Please remove invalid characters: {0}.","Please remove invalid characters: {0}.",lib,web
+"Please specify a valid phone number","Будь ласка, введіть дійсний номер",lib,web
+"Please specify a valid mobile number","Будь ласка, введіть дійсний мобільний номер",lib,web
+"Please enter at least {0} characters","Будь ласка, введіть принаймні {0} символів",lib,web
+"Please remove invalid characters: {0}.","Будь ласка, видаліть неприпустимі символи: {0}.",lib,web
 "Please enter a valid credit card number.","Будь ласка, введіть правильний номер кредитної карти.",lib,web
-"Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",lib,web
-"Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",lib,web
+"Please enter a valid IP v4 address.","Будь ласка введіть правильну IP-адресу v4.",lib,web
+"Please enter a valid IP v6 address.","Будь ласка введіть правильну IP-адресу v6.",lib,web
 "Invalid format.","Неприпустимий формат.",lib,web
 "HTML tags are not allowed.","HTML-теги не допускаються.",lib,web
 "Please select an option.","Будь ласка, виберіть варіант.",lib,web
