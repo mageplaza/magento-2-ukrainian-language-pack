@@ -1,1 +1,3 @@
 Mageplaza,Mageplaza
+"""%fieldName"" is required. Enter and try again.","Поле ""%fieldName"" є обов'язковим. Заповніть його та спробуйте ще раз.",module,Magento_Bundle
+"""%fieldName"" is required. Enter and try again.","Поле ""%fieldName"" є обов'язковим. Заповніть його та спробуйте ще раз.",module,Magento_Customer
