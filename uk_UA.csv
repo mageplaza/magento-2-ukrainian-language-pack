@@ -11430,7 +11430,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Pending Payment","Pending Payment",module,Magento_Sales
 "Processing","Обробка",module,Magento_Sales
 "On Hold","On Hold",module,Magento_Sales
-"Complete","Закінчувати",module,Magento_Sales
+"Complete","Завершено",module,Magento_Sales
 "Closed","Закриті",module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
 "Payment Review","Payment Review",module,Magento_Sales
